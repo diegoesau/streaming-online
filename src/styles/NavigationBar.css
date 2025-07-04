@@ -1,0 +1,17 @@
+.navbar {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.navbar__icon,
+.navbar__icon__main {
+    justify-items: center;
+    display: inline-flex;
+    align-items: center;
+    padding: 10px;
+    margin-inline: 1rem;
+}
+
+.navbar__icon__main {
+    margin-right: 5rem;
+}

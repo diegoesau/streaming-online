@@ -1,0 +1,50 @@
+.movie {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2rem;
+  color: white;
+  background-color: #000000;
+}
+
+.movie__poster {
+    display: inline;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    text-align: center;
+    object-fit: cover;
+}
+
+.movie__info {
+  flex: 1;
+  min-width: 280px;
+}
+
+.movie__title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.movie__year,
+.movie__duration,
+.movie__genre {
+  font-size: 0.9rem;
+  color: #aaa;
+  margin-bottom: 0.3rem;
+}
+
+.movie__synopsis {
+  margin-top: 1rem;
+  line-height: 1.6;
+}
+
+.movie__button {
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #e50914;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# node y dependencias
+node_modules/
+dist/
+build/
+
+# entornos
+.env
+.env.local
+.env.development
+.env.production
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# logs y errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# sistema operativo
+.DS_Store
+Thumbs.db
+
