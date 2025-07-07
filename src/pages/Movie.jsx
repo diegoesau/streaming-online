@@ -30,7 +30,7 @@ const Movie = () => {
             <IoEyeOutline/>
           </NavLink>
           <p>Ver Ahora</p>
-          <SaveButton movieId={movieId}/>
+          <SaveButton movieId={id}/>
           <p>Guardar</p>
         </div>
     </div>

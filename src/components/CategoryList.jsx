@@ -1,4 +1,6 @@
-import GenerateList from "../components/GenerateList";
+import GenerateList from './GenerateList';
+import { useState, useEffect, useContext} from 'react';
+import { MoviesContext } from './Context';
 import '../styles/CategoryList.css'
 
 /* CartegoryList
@@ -9,15 +11,34 @@ import '../styles/CategoryList.css'
  * @returns
 */
 
-const CategoryList = ({id}) => {
-  return (
-    <section className="category">
-        <h2 className="category__title"> Peliculas {id} </h2>
-        <div className="category__list">
-          <GenerateList element="card" searchid={id}/>
-        </div>
-    </section>
-  );
+const CategoryList = ({id = 0, name = 'default'}) => {
+    const [list, setList] = useState([]);
+    const movies = useContext(MoviesContext);
+
+    useEffect(() => {
+        let list = [];
+        if (name === 'default') {
+            movies[id]['Search'].forEach(movie =>
+                list.push(movie.imdbID + '&' + id.toString())
+            );
+        }
+        else {
+            list = JSON.parse(localStorage.getItem(name)) || [];
+        }
+        setList(list);
+    }, [id, name, movies]);
+
+    return (
+      <section className="category">
+          <h2 className="category__title"> {name === 'default' ? 'Peliculas ' + id: name} </h2>
+          <div className="category__list">
+            {!list.length ? 
+              <p className="category__empty">No hay peliculas en esta categoria</p> : 
+              <GenerateList elementType='card' elementsList={list}/>
+            }
+          </div>
+      </section>
+    );
 }
 
 export default CategoryList;

@@ -10,7 +10,6 @@ import '../styles/Card.css'
  * @returns
 */
 const Card = ({ id, title, poster }) => {
-  const movieId = id.split('&')[0];
 
   return (
     <div className="card">
@@ -22,7 +21,7 @@ const Card = ({ id, title, poster }) => {
         <h3 className="card__title">{title}</h3>
       </NavLink>
       <div className="card__savebutton">
-        <SaveButton movieId={movieId}/>
+        <SaveButton movieId={id} listName = 'Saved'/>
       </div>
     </div>
   );
