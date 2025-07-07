@@ -13,7 +13,7 @@ export const siteRoutes = Object.freeze([
   Object.freeze({ id: 3, path: "/register", Element: Register }),
   Object.freeze({ id: 4, path: "/home", Element: Home }),
   Object.freeze({ id: 5, path: "/home/my-list", Element: MyList }),
-  Object.freeze({ id: 6, path: "/home/movie", Element: Movie }),
-  Object.freeze({ id: 6, path: "/home/movie/payment", Element: Payment }),
+  Object.freeze({ id: 6, path: "/home/movie/:id", Element: Movie }),
+  Object.freeze({ id: 6, path: "/home/movie/payment/:id", Element: Payment }),
   Object.freeze({ id: 7, path: "*", Element: NotFound })
 ]);

@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { moviesContext } from './Context';
+import { MoviesContext } from './Context';
 import CategoryList from './CategoryList';
 import Card from './Card';
 
@@ -12,7 +12,7 @@ import Card from './Card';
 */
 
 const GenerateList = ({element = 'card', searchid = 0}) => {
-    const movies = useContext(moviesContext);
+    const movies = useContext(MoviesContext);
     const listItems = [];
 
     if(element === 'card')
@@ -21,6 +21,7 @@ const GenerateList = ({element = 'card', searchid = 0}) => {
               listItems.push(
               <Card
               key={movie.imdbID}
+              id={movie.imdbID + '&' + searchid.toString()}
               title={movie.Title}
               poster={movie.Poster}
               />));
@@ -34,7 +35,11 @@ const GenerateList = ({element = 'card', searchid = 0}) => {
               id={i}
               />)
         }
-    };
+    }
+    else
+    {
+        console.error('Element type not recognized');
+    }
 
   return (
   <>

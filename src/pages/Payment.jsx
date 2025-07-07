@@ -1,8 +1,11 @@
+import useRoute from "../hooks/useRoute";
 import NavigationBar from "../components/NavigationBar";
 import Card from "../components/Card";
 import '../styles/Payment.css'
 
-const Payment = ({ movie }) => {
+const Payment = () => {
+  const [id, movieId, movie] = useRoute();
+
   const handleSelect = (tipo) => {
     console.log(tipo); // tipo puede ser "renta" o "compra"
   };
@@ -13,7 +16,12 @@ const Payment = ({ movie }) => {
         <div className="Payment__overlay" /*onClick={onClose}*/></div>
         <div className="Payment__content">
             <h2 className="Payment__title">Adquirir: </h2>
-            <Card></Card>
+            <Card
+              key={movieId}
+              id={id}
+              title={movie.Title}
+              poster={movie.Poster}
+              />
             <div className="Payment__options">
                     <button className="Payment__button" onClick={() => handleSelect("renta")}>
                         Rentar - $29 MXN
@@ -22,7 +30,6 @@ const Payment = ({ movie }) => {
                         Comprar - $89 MXN
                     </button>
             </div>
-            <button className="Payment__close" /*onClick={onClose}*/>✖</button>
         </div>
     </div>
   );

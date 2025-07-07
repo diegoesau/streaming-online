@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import SaveButton from "../hooks/SaveButton";
+import SaveButton from "./SaveButton";
 import '../styles/Card.css'
 
 /* Card
@@ -9,10 +9,12 @@ import '../styles/Card.css'
  * @params
  * @returns
 */
-const Card = ({ title, poster }) => {
+const Card = ({ id, title, poster }) => {
+  const movieId = id.split('&')[0];
+
   return (
     <div className="card">
-      <NavLink to="/home/movie" end>
+      <NavLink to={"/home/movie/"+id} end>
         <img
         src={poster}
         alt={title}
@@ -20,7 +22,7 @@ const Card = ({ title, poster }) => {
         <h3 className="card__title">{title}</h3>
       </NavLink>
       <div className="card__savebutton">
-        <SaveButton/>
+        <SaveButton movieId={movieId}/>
       </div>
     </div>
   );

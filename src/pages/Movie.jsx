@@ -1,9 +1,9 @@
 import { IoEyeOutline } from "react-icons/io5";
 import { NavLink } from "react-router-dom";
 import NavigationBar from "../components/NavigationBar";
-import SaveButton from "../hooks/SaveButton";
+import SaveButton from "../components/SaveButton";
+import useRoute from "../hooks/useRoute";
 import '../styles/Card.css'
-
 /* Movie
  * 
  * Mostrar detalles de la pelicula
@@ -13,29 +13,24 @@ import '../styles/Card.css'
 */
 
 const Movie = () => {
-//   const { id } = useParams();
-//   const movie = peliculasData.find((p) => p.id.toString() === id);
-//   if (!movie) return <p>Película no encontrada</p>;
+  const [id, movieId, movie] = useRoute();
 
   return (
     <div className="movie">
         <NavigationBar></NavigationBar>
         <div className="movie__poster">
-            <img src="https://i.pinimg.com/736x/e7/6d/8e/e76d8e871820adcfa8a42d63b7d1e21d.jpg" alt="Titulo" />
+            <img src={movie.Poster} alt={movie.Title} />
         </div>
         <div className="movie__info">
-          <h1>Titulo</h1>
-          <p>Año</p>
-          <p>Duracion</p>
-          <p>Genero</p>
-          <p>Sinopsis</p>
+          <h1>{movie.Title}</h1>
+          <p>{movie.Year}</p>
         </div>
         <div className="movie__buttons">
-          <NavLink to="/home/movie/payment">
+          <NavLink to={"/home/movie/payment/"+id}>
             <IoEyeOutline/>
           </NavLink>
           <p>Ver Ahora</p>
-          <SaveButton/>
+          <SaveButton movieId={movieId}/>
           <p>Guardar</p>
         </div>
     </div>
