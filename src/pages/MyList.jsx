@@ -1,5 +1,5 @@
 import NavigationBar from "../components/NavigationBar";
-import CategoryList from "../components/CategoryList";
+import GenerateList from "../components/GenerateList";
 
 /* MyList
  * 
@@ -9,16 +9,15 @@ import CategoryList from "../components/CategoryList";
  * @returns
 */
 
-const Home = () => {
+const MyList = () => {
+    const list = ['Saved', 'Purchased', 'Rented'];
+    
     return(
         <>
         <NavigationBar></NavigationBar>
-        <h1>Guardadas</h1>
-        <CategoryList></CategoryList>
-        <h1>Compradas</h1>
-        <CategoryList></CategoryList>
+        <GenerateList elementType='category' elementsList={list}/>
         </>
     );
 }
 
-export default Home;
+export default MyList;

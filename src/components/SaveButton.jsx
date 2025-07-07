@@ -8,9 +8,9 @@ import useMyList from "../hooks/useMyList";
  * @params
  * @returns
 */
-const SaveButton = ({movieId, IconTrue = IoBookmark, IconFalse = IoBookmarkOutline, listname = 'myList'}) => {
-    const [saved, toggleSaved] = useMyList({movieId, listname});
-
+const SaveButton = ({movieId, IconTrue = IoBookmark, IconFalse = IoBookmarkOutline, listName = 'Saved'}) => {
+    const [saved, toggleSaved] = useMyList({movieId, listName});
+    
     return (
     <div className="save">
         <button  onClick={toggleSaved} className="save__button">

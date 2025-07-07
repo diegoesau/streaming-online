@@ -11,41 +11,58 @@ import Card from './Card';
  * @returns
 */
 
-const GenerateList = ({element = 'card', searchid = 0}) => {
+const GenerateList = ({elementType = 'card', elementsList = ['default']}) => {
     const movies = useContext(MoviesContext);
     const listItems = [];
 
-    if(element === 'card')
-    {
-        movies[searchid]['Search'].forEach(movie =>
-              listItems.push(
-              <Card
-              key={movie.imdbID}
-              id={movie.imdbID + '&' + searchid.toString()}
-              title={movie.Title}
-              poster={movie.Poster}
-              />));
-    }
-    else if (element === 'category') {
-        for(let i=0; i<movies.length; i++)
-        {
-            listItems.push(
-              <CategoryList
-              key={i}
-              id={i}
-              />)
-        }
-    }
-    else
-    {
-        console.error('Element type not recognized');
-    }
+    elementsList.forEach((element, index) => {
+        switch (elementType) {
+            case 'card':
+                const [movieId, searchId] = element.split('&');
+                const movieData = movies[searchId]['Search'].find(movie => movie.imdbID === movieId);
+                listItems.push(
+                <Card 
+                    key={movieData.imdbID}
+                    id={movieData.imdbID + '&' + searchId.toString()}
+                    title={movieData.Title}
+                    poster={movieData.Poster}
+                />);
+                break;
 
-  return (
-  <>
-  {listItems}
-  </>
-  );
+            case 'category':
+                if (element === 'default') {
+                    for (let i = 0; i < movies.length; i++) {
+                        listItems.push(
+                            <CategoryList
+                                key={i}
+                                id={i}
+                                name={'default'}
+                            />
+                        );
+                    }
+                }
+                else {
+                    listItems.push(
+                        <CategoryList
+                            key={element+index.toString()}
+                            id={index}
+                            name={element}
+                        />
+                    );
+                }
+                break;
+
+            default:
+                console.error('Element type not recognized');
+                break;
+        }
+    });
+    
+    return (
+    <>
+    {listItems}
+    </>
+    );
 }
 
 export default GenerateList;
