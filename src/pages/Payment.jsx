@@ -1,19 +1,16 @@
 import useRoute from "../hooks/useRoute";
 import NavigationBar from "../components/NavigationBar";
 import Card from "../components/Card";
+import SaveButton from "../components/SaveButton";
+import { IoWallet, IoWalletOutline, IoTimer, IoTimerOutline } from "react-icons/io5";
 import '../styles/Payment.css'
 
 const Payment = () => {
-  const [id, movieId, movie] = useRoute();
-
-  const handleSelect = (tipo) => {
-    console.log(tipo); // tipo puede ser "renta" o "compra"
-  };
+    const [id, movieId, movie] = useRoute();
 
   return (
     <div className="Payment">
         <NavigationBar></NavigationBar>
-        <div className="Payment__overlay" /*onClick={onClose}*/></div>
         <div className="Payment__content">
             <h2 className="Payment__title">Adquirir: </h2>
             <Card
@@ -23,12 +20,14 @@ const Payment = () => {
               poster={movie.Poster}
               />
             <div className="Payment__options">
-                    <button className="Payment__button" onClick={() => handleSelect("renta")}>
-                        Rentar - $29 MXN
-                    </button>
-                    <button className="Payment__button" onClick={() => handleSelect("compra")}>
-                        Comprar - $89 MXN
-                    </button>
+                <div>
+                    <SaveButton movieId={id} IconTrue={IoWallet} IconFalse={IoWalletOutline} listName='Purchased'/>
+                    <p>Purchase</p>
+                </div>
+                <div>
+                    <SaveButton movieId={id} IconTrue={IoTimer} IconFalse={IoTimerOutline} listName='Rented'/>
+                    <p>Rent</p>
+                </div>
             </div>
         </div>
     </div>

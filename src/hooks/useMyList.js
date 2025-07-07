@@ -8,16 +8,16 @@ import { useEffect, useState } from "react";
  * @params movieId (string)
  * @returns saved (boolean), toggleSaved (function)
 */
-const useMyList = ({movieId, listname = 'myList' }) => {
+const useMyList = ({movieId, listName = 'Saved' }) => {
     const [saved, setSaved] = useState(false);
     
     useEffect(() => {
-        const list = JSON.parse(localStorage.getItem(listname)) || [];
+        const list = JSON.parse(localStorage.getItem(listName)) || [];
         setSaved(list.includes(movieId));
-    }, [movieId, listname]);
+    }, [movieId, listName]);
 
     const toggleSaved = () => {
-        let list = JSON.parse(localStorage.getItem(listname)) || [];
+        let list = JSON.parse(localStorage.getItem(listName)) || [];
         if (saved){
             list = list.filter(id => id !== movieId);
         }
@@ -25,7 +25,7 @@ const useMyList = ({movieId, listname = 'myList' }) => {
             list.push(movieId);
         }
         
-        localStorage.setItem(listname, JSON.stringify(list));
+        localStorage.setItem(listName, JSON.stringify(list));
         setSaved(!saved);
     }
 

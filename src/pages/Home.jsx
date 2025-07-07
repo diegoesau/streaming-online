@@ -13,7 +13,7 @@ const Home = () => {
     return(
         <>
         <NavigationBar/>
-        <GenerateList element="category"/>
+        <GenerateList elementType='category' elementsList={['default']}/>
         </>
     );
 }
