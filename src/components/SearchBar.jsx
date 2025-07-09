@@ -1,5 +1,7 @@
+import { useState } from 'react';
+import Results from './Results';
 import '../styles/SearchBar.css'
-/* NavigationBar
+/* SearchBar
  * 
  * Barra de navegacion con botones:
  * Home -> Pantalla principal
@@ -11,15 +13,24 @@ import '../styles/SearchBar.css'
 */
 
 const SearchBar = () => {
-  return (
+    const [input, setInput] = useState('');
+    
+    return (
+    <>
     <form className="search-bar">
-      <input
-        type="text"
-        className="search-bar__input"
-        placeholder="Buscar películas..."
-      />
+        <input
+            type="text"
+            placeholder="Search for movies..."
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            className="search-bar__input"
+        />
+        <div className="search-bar__results">
+            <Results input={input} />
+        </div>
     </form>
-  );
+    </>
+    );
 }
 
 export default SearchBar;

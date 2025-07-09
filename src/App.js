@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Header></Header>
       <MoviesProvider>
         <AppRouter></AppRouter>

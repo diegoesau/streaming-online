@@ -11,20 +11,21 @@ import '../styles/Card.css'
 */
 const Card = ({ id, title, poster }) => {
 
-  return (
+    return (
     <div className="card">
-      <NavLink to={"/home/movie/"+id} end>
-        <img
-        src={poster}
-        alt={title}
-        className="card__image"/>
-        <h3 className="card__title">{title}</h3>
-      </NavLink>
-      <div className="card__savebutton">
-        <SaveButton movieId={id} listName = 'Saved'/>
-      </div>
+        <NavLink to={"/home/movie/"+id} end> 
+            <img src={poster} alt={title} className="card__image"/>
+        </NavLink>
+        <div className="card__info">
+            <div className="card__savebutton">
+              <SaveButton movieId={id} listName = 'Saved'/>
+            </div>
+            <NavLink to={"/home/movie/"+id} end className="card__navlink"> 
+                <h3 className="card__title">{title}</h3>
+            </NavLink> 
+        </div>
     </div>
-  );
+    );
 }
 
 export default Card;

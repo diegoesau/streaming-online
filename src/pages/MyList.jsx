@@ -1,5 +1,6 @@
 import NavigationBar from "../components/NavigationBar";
 import GenerateList from "../components/GenerateList";
+import '../styles/MyList.css';
 
 /* MyList
  * 
@@ -15,7 +16,9 @@ const MyList = () => {
     return(
         <>
         <NavigationBar></NavigationBar>
-        <GenerateList elementType='category' elementsList={list}/>
+        <main className="mylist">
+            <GenerateList elementType='category' elementsList={list}/>
+        </main>
         </>
     );
 }

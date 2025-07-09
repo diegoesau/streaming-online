@@ -1,5 +1,6 @@
 import NavigationBar from "../components/NavigationBar";
 import GenerateList from "../components/GenerateList";
+import '../styles/Home.css';
 
 /* Home
  * 
@@ -13,7 +14,9 @@ const Home = () => {
     return(
         <>
         <NavigationBar/>
-        <GenerateList elementType='category' elementsList={['default']}/>
+        <main className="home">
+            <GenerateList elementType='category' elementsList={['default']}/>
+        </main>
         </>
     );
 }
