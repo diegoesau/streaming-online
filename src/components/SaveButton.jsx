@@ -1,5 +1,6 @@
 import { IoBookmark , IoBookmarkOutline } from "react-icons/io5";
 import useMyList from "../hooks/useMyList";
+import '../styles/SaveButton.css';
 
 /* SaveButton
  * 
@@ -12,10 +13,8 @@ const SaveButton = ({movieId, IconTrue = IoBookmark, IconFalse = IoBookmarkOutli
     const [saved, toggleSaved] = useMyList({movieId, listName});
     
     return (
-    <div className="save">
-        <button  onClick={toggleSaved} className="save__button">
-            {saved ? <IconTrue/> : <IconFalse/>}
-        </button>
+    <div onClick={toggleSaved} className="save__button">
+        {saved ? <IconTrue/> : <IconFalse/>}
     </div>
   );
 }

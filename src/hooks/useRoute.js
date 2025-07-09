@@ -13,8 +13,8 @@ import { useContext } from "react";
 const useRoute = () => {
     const { id } = useParams();
     const movies = useContext(MoviesContext);
-    const movieId = id.split('&')[0];
-    const searchId = id.split('&')[1];
+    const movieId = id === undefined ? '' : id.split('&')[0];
+    const searchId = id === undefined ? '' : id.split('&')[1];
     let movieData = {};
     
     if (movies === undefined || !movies[searchId] || !movies[searchId]['Search']) 

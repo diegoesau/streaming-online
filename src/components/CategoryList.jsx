@@ -29,15 +29,15 @@ const CategoryList = ({id = 0, name = 'default'}) => {
     }, [id, name, movies]);
 
     return (
-      <section className="category">
-          <h2 className="category__title"> {name === 'default' ? 'Peliculas ' + id: name} </h2>
-          <div className="category__list">
+    <section className="category">
+        <h2 className="category__title"> {name === 'default' ? 'Movies ' + id: name} </h2>
+        <div className="category__list">
             {!list.length ? 
-              <p className="category__empty">No hay peliculas en esta categoria</p> : 
-              <GenerateList elementType='card' elementsList={list}/>
+            <p className="category__empty"> Your list is empty </p> : 
+            <GenerateList elementType='card' elementsList={list}/>
             }
-          </div>
-      </section>
+        </div>
+    </section>
     );
 }
 

@@ -1,6 +1,8 @@
 import { IoHomeOutline, IoSearchOutline, IoBookmarkOutline } from "react-icons/io5";
 import { NavLink } from "react-router-dom";
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import useRoute from "../hooks/useRoute";
+import unir from "../assets/UNIR.png";
 import SearchBar from "./SearchBar";
 import '../styles/NavigationBar.css'
 /* NavigationBar
@@ -15,32 +17,44 @@ import '../styles/NavigationBar.css'
 */
 
 const NavigationBar = () => {
-  const [showSearchBar, setShowSearchBar] = useState(false);
+    const [showSearchBar, setShowSearchBar] = useState(false);
+    const [id, , ] = useRoute();
 
-  function toggleSearchBar () {
-    setShowSearchBar(!showSearchBar);
-  }
+    useEffect(() => {
+      setShowSearchBar(false);
+    },[id]);
+
+    function toggleSearchBar () {
+      setShowSearchBar(!showSearchBar);
+    }
 
   return (
+    <>
     <section className="navbar">
-      <div className="navbar__icon__main">
-        <h2>Unir</h2>
-      </div>
-      <nav className="navbar__icon">
-        <NavLink to="/home" end>
-          <IoHomeOutline />
-        </NavLink>
-        <NavLink onClick={toggleSearchBar}>
-          <IoSearchOutline />
-        </NavLink>
-        <NavLink to="/home/my-list" end>
-          <IoBookmarkOutline />
-        </NavLink>
-      </nav>
-      <div>
-        {showSearchBar && <SearchBar/>}
-      </div>
+        <div className="navbar__logo">
+            <img src={unir} alt="UNIR Logo" className="navbar__logo-image"/>
+        </div>
+        
+        <nav className="navbar__menu">
+            <NavLink to="/home" end>
+                <IoHomeOutline />
+            </NavLink>
+
+            <NavLink onClick={toggleSearchBar}>
+                <IoSearchOutline />
+            </NavLink>
+
+            <NavLink to="/home/my-list" end>
+                <IoBookmarkOutline />
+            </NavLink>
+        </nav>
     </section>
+
+    {showSearchBar && 
+    <div className="floating__search">
+        <SearchBar/>
+    </div>}
+    </>
   );
 }
 
