@@ -3,7 +3,7 @@
   flex-direction: row;
   align-items: flex-start;
   gap: 2rem;
-  padding-top: var(--padding-searchbar);
+  padding: var(--padding-searchbar);
   margin: 2em;
 }
 
@@ -12,7 +12,7 @@
   height: auto;
   margin: 3em;
   border-radius: 20px;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.6);
+  box-shadow: var(--color-glow-static);
 }
 
 .movie__info {
@@ -21,7 +21,7 @@
 
 .movie__title {
   font-size: 2rem;
-  color: white;
+  color: var(--color-text);
   margin-top: 1em;
   margin-bottom: 0.5rem;
 }
@@ -29,44 +29,43 @@
 .movie__year,
 .movie__director {
   font-size: 1.2rem;
-  color: #aaa;
+  color: var(--color-subtext);
   margin-bottom: 2rem;
 }
 
 .movie__plot {
   font-size: 1rem;
-  color: #ddd;
+  color: var(--color-text);
   line-height: 1.5;
   margin-top: 1rem;
 }
 
 .movie__action {
   display: flex;
-  gap: 1rem;
-  align-items: center;
-  margin-top: 1.5rem;
+  gap: 3rem;
+  margin-top: 1rem;
 }
 
-.movie__button,
-.movie__button--save {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  color: white;
-  padding: 0.6rem 1.2rem;
+.movie__button {
+  display: grid;
+  color: var(--color-icon);
   border-radius: 8px;
   cursor: pointer;
   text-decoration: none;
   font-size: 1.5rem;
-  transition: background-color 0.4s ease, transform 0.4s ease;
 }
 
-.movie__button:hover,
-.movie__button--save:hover {
-    color: rgb(129, 215, 251);
-    transform: scale(1.05);
+.movie__button-icon{
+    justify-self: center;
+    transition: filter var(--transform-ease), transform var(--transform-ease);
+}
+
+.movie__button-icon:hover {
+    color: var(--color-icon-hover);
+    filter: var(--color-glow-icon-shadow);
+    transform: var(--transform-scale);
 }
 
 .movie__button-text {
-  font-size: 1rem;
+    font-size: 1rem;
 }

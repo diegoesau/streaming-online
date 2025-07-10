@@ -5,12 +5,13 @@
     width: 30px;
     height: 30px;
     background-color: transparent;
-    color: #fff;
+    color: var(--color-icon);
     font-size: 1.5rem;
-    transition: background-color 0.4s ease, transform 0.4s ease;
+    transition: filter var(--transform-ease), transform var(--transform-ease);
 }
 
 .save__button:hover {
-    color: rgb(129, 215, 251);
-    transform: scale(1.05);
+    color: var(--color-icon-hover);
+    filter: var(--color-glow-icon-shadow);
+    transform: var(--transform-scale);
 }

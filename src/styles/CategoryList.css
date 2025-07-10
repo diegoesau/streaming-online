@@ -16,15 +16,21 @@
 
 .category__title {
   font-size: 1.6rem;
-  color: #ffffff;
+  color: var(--color-text);
   font-weight: 700;
   margin-bottom: 0;
-  padding: 1em 2rem;
+  background: transparent;
+  padding: 1em 2rem 0;
+}
+
+.category__empty {
+  align-self: auto;
+  font-size: 1rem;
+  color: var(--color-text);
 }
 
 .card {
   flex: 0 0 auto;
   width: 200px;
   scroll-snap-align: start;
-  margin-bottom: 0.5rem;
 }

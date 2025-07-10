@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  
+    background-color: var(--color-surface);
+    padding: 0;
+    text-align: center;
+    box-shadow: var(--color-glow-footer);
+}
+
+.footer__text {
+    color: var(--color-subtext);
+    font-size: 0.85rem;
+    margin: 10px;
+    text-shadow: 0 0 4px var(--color-accent);
+}

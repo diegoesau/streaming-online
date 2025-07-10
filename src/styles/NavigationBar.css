@@ -1,53 +1,56 @@
 .navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1000;
-  height: 50px;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding: 0.25rem 0.5rem;
-  background-color: black;
-  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.45);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.25rem 0.5rem;
+    background-color: var(--color-surface);
+    box-shadow: var(--color-glow-nav);
 }
 
 .navbar__logo-image {
-  width: auto;
-  height: 50px;
-  padding-left: 2rem;
-  filter: brightness(100) invert(1);
+    width: auto;
+    height: 50px;
+    padding-left: 2rem;
+    filter: brightness(100) invert(1);
 }
 
 .navbar__menu {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  display: flex;
-  gap: 2rem;
-  font-size: 2rem;
-  align-items: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 2rem;
+    font-size: 2rem;
+    align-items: center;
 }
 
-.navbar__menu a {
-  color: white;
-  transition: color 0.4s ease, transform 0.4s ease;
+.navbar__icon {
+    display: inline-flex;
+    font-size: 1.5rem;
+    transition: filter var(--transform-ease), transform var(--transform-ease);
+    color: var(--color-icon);
 }
 
-.navbar__menu a:hover {
-  color: #99e0ff;
-  transform: scale(1.2);
+.navbar__menu a:hover .navbar__icon {
+    color: var(--color-icon-hover);
+    filter: var(--color-glow-icon-shadow);
+    transform: scale(1.3);
 }
 
 .floating__search {
-  position: fixed; 
-  top: 50px; 
-  left: 0;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  z-index: 2000;
-  padding: 1rem 0;
-  background-color: transparent;
+    position: fixed; 
+    top: 50px; 
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 2000;
+    padding: 1rem 0;
+    background-color: transparent;
 }

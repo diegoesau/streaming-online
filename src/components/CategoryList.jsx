@@ -34,7 +34,7 @@ const CategoryList = ({id = 0, name = 'default'}) => {
         <div className="category__list">
             {!list.length ? 
             <p className="category__empty"> Your list is empty </p> : 
-            <GenerateList elementType='card' elementsList={list}/>
+            <GenerateList elementType='card' elementsList={list} myListName={name}/>
             }
         </div>
     </section>

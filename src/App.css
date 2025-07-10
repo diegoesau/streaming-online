@@ -1,10 +1,21 @@
 :root {
-  --color-bg: #1b2745;
-  --color-text: #e0e0e0;
-  --color-accent: #f5c518;
-  --color-highlight: #76b5f5;
-  --color-glow: rgba(245, 197, 24, 0.6); /* color para efectos de brillo */
-  --padding-searchbar: 70px;
+  --color-bg: #0e0c15;
+  --color-surface: #1a181f;
+  --color-text: #e8e6ed;
+  --color-subtext: #a29fae;
+  --color-icon: #fcd977;
+  --color-icon-hover: #fff5cc;
+  --color-pay: #e0a606;
+  --color-pay-waiting: #c4a347;
+  --color-glow-box-shadow: 0 0 10px 6px rgba(252, 217, 119, 0.6);
+  --color-glow-static: 0 0 15px 4px rgba(159, 159, 253, 0.7);
+  --color-glow-bar: rgba(117, 88, 10, 0.833);
+  --color-glow-footer: inset 0 8px 16px -8px var(--color-glow-bar);
+  --color-glow-nav: inset 0 -8px 16px -8px var(--color-glow-bar);
+  --color-glow-icon-shadow: drop-shadow(0 0 6px #fcd977) drop-shadow(0 0 12px #00fff7);
+  --padding-searchbar: 60px 0;
+  --transform-scale: scale(1.05);
+  --transform-ease: 0.4s ease;
 }
 
 .App {

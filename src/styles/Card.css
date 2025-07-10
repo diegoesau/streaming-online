@@ -1,16 +1,16 @@
 .card {
-  background-color: #1e1e1e;
+  background-color: var(--color-surface);
   border-radius: 20px;
   overflow: hidden;
   width: 250px;
   margin: 1rem;
-  box-shadow: 0 2px 10px rgba(10, 10, 255, 0.7);
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  box-shadow: var(--color-glow-static);
+  transition: box-shadow var(--transform-ease), transform var(--transform-ease);
 }
 
 .card:hover {
-  box-shadow: 0 0 15px rgba(235, 252, 5, 0.915);
-  transform: scale(1.05);
+  box-shadow: var(--color-glow-box-shadow);
+  transform: var(--transform-scale);
 }
 
 .card__image {
@@ -38,12 +38,7 @@
 .card__navlink {
   flex-grow: 1;
   text-decoration: none;
-  color: white;
-}
-
-.card__navlink:hover .card__title {
-  text-shadow: 0 0 3px #ffffff;
-  transition: all 0.3s ease;
+  color: var(--color-text);
 }
 
 .card__savebutton {

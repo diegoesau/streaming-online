@@ -1,3 +1,4 @@
+import '../styles/Footer.css'
 /* Footer
  * 
  * Vista del pie de la app, se muestra el contacto
@@ -9,7 +10,7 @@
 const Footer = () => {
   return (
     <footer className="footer">
-        <p>contact: villadaneride@gmail.com</p>
+        <p className="footer__text">contact: villadaneride@gmail.com</p>
     </footer>
   );
 }

@@ -1,4 +1,4 @@
-import { IoEyeOutline } from "react-icons/io5";
+import { IoTicket, IoLogoYoutube } from "react-icons/io5";
 import { NavLink } from "react-router-dom";
 import NavigationBar from "../components/NavigationBar";
 import SaveButton from "../components/SaveButton";
@@ -16,6 +16,8 @@ import '../styles/Movie.css';
 const Movie = () => {
   const [id, , movie] = useRoute();
 
+  const trailer = "https://www.youtube.com/results?search_query=" + movie.Title.replaceAll(" ", "+") + "+" + movie.Year +"+trailer";
+
   return (
     <>
     <NavigationBar></NavigationBar>
@@ -32,14 +34,19 @@ const Movie = () => {
 
             <div className="movie__action">
                 <NavLink to={"/home/movie/payment/"+id} className="movie__button">
-                    <IoEyeOutline/>
+                    <span className="movie__button-icon"><IoTicket/></span>
                     <span className="movie__button-text">Rent or Buy</span>
                 </NavLink>
 
-                <div className="movie__button movie__button--save">
-                    <SaveButton movieId={id}/>
+                <div className="movie__button">
+                    <span className="movie__button-icon-save"><SaveButton movieId={id}/></span>
                     <span className="movie__button-text">Save</span>
                 </div>
+
+                <a href={trailer} target="_blank" rel="noopener noreferrer" className="movie__button">
+                    <span className="movie__button-icon"><IoLogoYoutube/></span>
+                    <span className="movie__button-text">Trailer</span>
+                </a>
             </div>
         </section>
     </main>
