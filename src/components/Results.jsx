@@ -4,10 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 /* Results
  * 
- * Barra de navegacion con botones:
- * Home -> Pantalla principal
- * Search -> Desplegar barra de busqueda
- * My List -> Peliculas guardadas
+ * Despliega la lista de resultados de la searchbar
  * 
  * @params
  * @returns
