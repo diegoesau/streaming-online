@@ -4,7 +4,7 @@ import '../styles/Card.css'
 
 /* Card
  * 
- * Proporciona una vista miniatura de la pelicula y su titulo
+ * Proporciona una vista miniatura de la pelicula, titulo y save
  * 
  * @params
  * @returns

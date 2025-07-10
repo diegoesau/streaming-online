@@ -4,7 +4,7 @@ import { useContext } from "react";
 
 /* useRoute
  * 
- * Direccion no encontrada
+ * Determina la ruta de la pelicula que se va a mostrar, conserva datos en storage
  * 
  * @params
  * @returns

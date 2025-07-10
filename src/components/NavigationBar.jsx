@@ -5,6 +5,7 @@ import useRoute from "../hooks/useRoute";
 import unir from "../assets/UNIR.png";
 import SearchBar from "./SearchBar";
 import '../styles/NavigationBar.css'
+
 /* NavigationBar
  * 
  * Barra de navegacion con botones:

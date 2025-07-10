@@ -4,7 +4,6 @@ import Movie from "../pages/Movie";
 import Payment from "../pages/Payment";
 import NotFound from "../pages/NotFound";
 
-/* Home is the first page, login functionalities will be added soon */
 export const siteRoutes = Object.freeze([
   Object.freeze({ id: 1, path: "/", Element: Home }),
   Object.freeze({ id: 1, path: "/home", Element: Home }),

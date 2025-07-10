@@ -8,9 +8,16 @@
 */
 
 const NotFound = () => {
+
+    const myStyle = {
+        color: 'white',
+        fontSize: '3rem',
+        padding: '5rem'
+    }
+
     return(
         <>
-        <h1>Error: Not Found</h1>
+        <h1 style={myStyle}> Error: Not Found </h1>
         </>
     );
 }

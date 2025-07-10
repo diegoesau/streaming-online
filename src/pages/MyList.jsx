@@ -4,7 +4,7 @@ import '../styles/MyList.css';
 
 /* MyList
  * 
- * Vista de las peliculas que se han guardado o Comprado
+ * Vista de las peliculas que se han guardado, comprado o rentado
  * 
  * @params
  * @returns

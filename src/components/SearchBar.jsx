@@ -3,10 +3,7 @@ import Results from './Results';
 import '../styles/SearchBar.css'
 /* SearchBar
  * 
- * Barra de navegacion con botones:
- * Home -> Pantalla principal
- * Search -> Desplegar barra de busqueda
- * My List -> Peliculas guardadas
+ * Barra de busqueda de titulos
  * 
  * @params
  * @returns

@@ -7,6 +7,14 @@ import { IoWallet, IoWalletOutline, IoTimer, IoTimerOutline } from "react-icons/
 import { NavLink } from "react-router-dom";
 import '../styles/Payment.css'
 
+/* Payment
+ * 
+ * Muestra el proceso de pago de una pelicula
+ * 
+ * @params
+ * @returns
+*/
+
 const Payment = () => {
     const [cardNumber, setCardNumber] = useState('');
     const [pinNumber, setPinNumber] = useState('');
