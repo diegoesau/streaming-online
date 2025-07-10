@@ -11,7 +11,7 @@ import Card from './Card';
  * @returns
 */
 
-const GenerateList = ({elementType = 'card', elementsList = ['default']}) => {
+const GenerateList = ({elementType = 'card', elementsList = ['default'], myListName = 'default'}) => {
     const movies = useContext(MoviesContext);
     const listItems = [];
 
@@ -19,7 +19,23 @@ const GenerateList = ({elementType = 'card', elementsList = ['default']}) => {
         switch (elementType) {
             case 'card':
                 const [movieId, searchId] = element.split('&');
-                const movieData = movies[searchId]['Search'].find(movie => movie.imdbID === movieId);
+                /* Avoid errors with old localStorageData when changing json */
+                const movieBlock = movies[searchId];
+                if (!movieBlock || !movieBlock.Search){
+                    let list = JSON.parse(localStorage.getItem(myListName)) || [];
+                    list = list.filter(id => id !== element);
+                    localStorage.setItem(myListName, JSON.stringify(list));
+                  return;
+                }
+                
+                const movieData = movieBlock.Search.find(movie => movie.imdbID === movieId);
+                if (!movieData){
+                    let list = JSON.parse(localStorage.getItem(myListName)) || [];
+                    list = list.filter(id => id !== element);
+                    localStorage.setItem(myListName, JSON.stringify(list));
+                  return;
+                }
+
                 listItems.push(
                 <Card 
                     key={movieData.imdbID}

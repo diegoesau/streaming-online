@@ -28,34 +28,34 @@ const NavigationBar = () => {
       setShowSearchBar(!showSearchBar);
     }
 
-  return (
-    <>
-    <section className="navbar">
-        <div className="navbar__logo">
-            <img src={unir} alt="UNIR Logo" className="navbar__logo-image"/>
-        </div>
-        
-        <nav className="navbar__menu">
-            <NavLink to="/home" end>
-                <IoHomeOutline />
-            </NavLink>
-
-            <NavLink onClick={toggleSearchBar}>
-                <IoSearchOutline />
-            </NavLink>
-
-            <NavLink to="/home/my-list" end>
-                <IoBookmarkOutline />
-            </NavLink>
-        </nav>
-    </section>
-
-    {showSearchBar && 
-    <div className="floating__search">
-        <SearchBar/>
-    </div>}
-    </>
-  );
+    return (
+        <>
+        <section className="navbar">
+            <div className="navbar__logo">
+                <img src={unir} alt="UNIR Logo" className="navbar__logo-image"/>
+            </div>
+            
+            <nav className="navbar__menu">
+                <NavLink to="/home" end>
+                    <span className="navbar__icon"><IoHomeOutline /></span>
+                </NavLink>
+    
+                <NavLink onClick={toggleSearchBar}>
+                    <span className="navbar__icon"><IoSearchOutline /></span>
+                </NavLink>
+    
+                <NavLink to="/home/my-list" end>
+                    <span className="navbar__icon"><IoBookmarkOutline /></span>
+                </NavLink>
+            </nav>
+        </section>
+    
+        {showSearchBar && 
+        <div className="floating__search">
+            <SearchBar/>
+        </div>}
+        </>
+    );
 }
 
 export default NavigationBar;

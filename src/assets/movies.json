@@ -2,240 +2,1221 @@
     {
         "Search": [
             {
-                "Title": "Ant-Man",
-                "Year": "2015",
-                "imdbID": "tt0478970",
+                "Title": "Crazy, Stupid, Love.",
+                "Year": "2011",
+                "imdbID": "tt1570728",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg"
             },
             {
-                "Title": "Ant-Man and the Wasp",
-                "Year": "2018",
-                "imdbID": "tt5095030",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ant-Man and the Wasp: Quantumania",
-                "Year": "2023",
-                "imdbID": "tt10954600",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Ant Bully",
-                "Year": "2006",
-                "imdbID": "tt0429589",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTYwMzQzNl5BMl5BanBnXkFtZTcwNDM1MjMzMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Dead Ant",
-                "Year": "2017",
-                "imdbID": "tt5265898",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3ODMyNjUzOV5BMl5BanBnXkFtZTgwOTgwODI5NjM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Journey of the Ant",
-                "Year": "1983",
-                "imdbID": "tt0216126",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDkyYTE5NmItMThiZi00ZTFlLTgyOWUtNGYwNmZkZDMxNTczXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ant Head",
-                "Year": "2018",
-                "imdbID": "tt9287342",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0MzEwMWQtMTg1Yi00MjE5LWE3M2MtNzAyMGEzYmI0YjRlXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ant Pasted",
-                "Year": "1953",
-                "imdbID": "tt0045511",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMWMxNjZiNjItMTYxMi00YTNlLTgxOWYtYjI2ZDU3NzM0YTllXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg"
-            },
-            {
-                "Title": "White Ant",
-                "Year": "2016",
-                "imdbID": "tt6129128",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTAwMzg3MTgtY2QyNS00N2Y1LTllNDEtZDE1MTdkZmE5YWE0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Porky's Ant",
-                "Year": "1941",
-                "imdbID": "tt0034046",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjU4MDIzNjUtNTBhNS00ZWI3LWJmNjQtMGFlNjQwZGIxYTAwL2ltYWdlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "163",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "You Are So Not Invited to My Bat Mitzvah",
-                "Year": "2023",
-                "imdbID": "tt21276878",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZmU0NjhkYzctZDBhNi00NzFjLWFkMjAtZGY0MmM3YzU3ZTgyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Bat*21",
-                "Year": "1988",
-                "imdbID": "tt0094712",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODliNTk0NDItZTdkNS00ZjRkLTk5MjItYmQxNmYyZTBiNjI0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Bat",
-                "Year": "1959",
-                "imdbID": "tt0052602",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwMDc3ZTUtMjNiZi00Y2RhLTgzNDItZjZmYjdkZjE2MmVmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Devil Bat",
-                "Year": "1940",
-                "imdbID": "tt0032390",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y5MDM5ZWYtYmNjYS00MjUyLWE2NTQtN2RlMTNjM2VlM2YyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Vampire Bat",
-                "Year": "1933",
-                "imdbID": "tt0024727",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjlkMDA0NjUtYWE0OC00NjJmLWE0OGMtYjg2ODhkNjQ4MDM0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Bat People",
-                "Year": "1974",
-                "imdbID": "tt0071198",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjJkMGNhMGYtNjg4MS00ODgzLWI1NzQtMzFhNDBmN2EyY2FmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Bat Whispers",
-                "Year": "1930",
-                "imdbID": "tt0020668",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMjg3NDc2OF5BMl5BanBnXkFtZTgwMzk4ODQwMjE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Bat Woman",
-                "Year": "1968",
-                "imdbID": "tt0235608",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2VmMzg2OTYtODk4Ny00Njk2LWI3MjktZDZjOGVlNTQ2MDAwXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Bat Thumb",
-                "Year": "2001",
-                "imdbID": "tt0331189",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODc3MjMzM15BMl5BanBnXkFtZTcwMjIwNzIyMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Rise of the Black Bat",
-                "Year": "2012",
-                "imdbID": "tt2205589",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwMTQ2OTU2MF5BMl5BanBnXkFtZTcwMDI0OTU4OA@@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "222",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "The Cat in the Hat",
+                "Title": "Love Actually",
                 "Year": "2003",
-                "imdbID": "tt0312528",
+                "imdbID": "tt0314331",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "The Cat Returns",
-                "Year": "2002",
-                "imdbID": "tt0347618",
+                "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "Year": "1964",
+                "imdbID": "tt0057012",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwZDkyNWItYzM3OC00N2Q1LTk0YmEtYjIxZWJlNGFjNTE3XkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Black Cat, White Cat",
+                "Title": "Thor: Love and Thunder",
+                "Year": "2022",
+                "imdbID": "tt10648342",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Shakespeare in Love",
                 "Year": "1998",
-                "imdbID": "tt0118843",
+                "imdbID": "tt0138097",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjdmNzIwYzEtMGZhNi00OTVmLWJmZGItOTNlZTkzZDA1OWY0XkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Cat on a Hot Tin Roof",
-                "Year": "1958",
-                "imdbID": "tt0051459",
+                "Title": "Love & Other Drugs",
+                "Year": "2010",
+                "imdbID": "tt0758752",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjY1YjYtNDQzMi00M2JjLTgwMDEtMDc3ZWE3ZmI2NjNiXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_SX300.jpg"
             },
             {
-                "Title": "A Street Cat Named Bob",
-                "Year": "2016",
-                "imdbID": "tt3606888",
+                "Title": "P.S. I Love You",
+                "Year": "2007",
+                "imdbID": "tt0431308",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDk3ZGE2OTItY2JkYi00NWEzLWI1NjQtZGZlMzdkNjJlNmYxXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2MDg4MjI5NV5BMl5BanBnXkFtZTcwMzQ0MDczMw@@._V1_SX300.jpg"
             },
             {
-                "Title": "Cat People",
-                "Year": "1942",
-                "imdbID": "tt0034587",
+                "Title": "I Love You, Man",
+                "Year": "2009",
+                "imdbID": "tt1155056",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzMjc3NmQtNjhjYS00Y2MyLWE4NTUtODVmYTU2Y2JjMGU4XkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjI5NTEyNV5BMl5BanBnXkFtZTcwNjQ1NTMzMg@@._V1_SX300.jpg"
             },
             {
-                "Title": "Cat People",
-                "Year": "1982",
-                "imdbID": "tt0083722",
+                "Title": "Punch-Drunk Love",
+                "Year": "2002",
+                "imdbID": "tt0272338",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzk0MDY3NjQtOGM4ZC00YjQ3LTg4ZTEtZDA3OWJhZWRjMzhmXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Cat Ballou",
-                "Year": "1965",
-                "imdbID": "tt0059017",
+                "Title": "In the Mood for Love",
+                "Year": "2000",
+                "imdbID": "tt0118694",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODAwMmVmMDAtZjdjNy00YmFiLThmN2EtMTQ3OWZmMjQzMGI2XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Fritz the Cat",
-                "Year": "1972",
-                "imdbID": "tt0068612",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMWY5MzJhZjMtMDc1Yy00ZDc2LWFhYmYtODA0MGNiYjdiZTcwXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Cat o' Nine Tails",
-                "Year": "1971",
-                "imdbID": "tt0065761",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxYjhiOWEtMDQ5OC00NjA5LTk3MmYtZDFiZWQ1YWY0ZWMxXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg"
             }
         ],
-        "totalResults": "1584",
+        "totalResults": "21387",
         "Response": "True"
     },
     {
         "Search": [
             {
-                "Title": "Dog Day Afternoon",
-                "Year": "1975",
-                "imdbID": "tt0072890",
+                "Title": "Avengers: Infinity War",
+                "Year": "2018",
+                "imdbID": "tt4154756",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2RjNTg2ODMtZWQ4NC00MDdhLWE4MDgtMWFjMjI4ZTIxMGY4XkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
             },
+            {
+                "Title": "Captain America: Civil War",
+                "Year": "2016",
+                "imdbID": "tt3498820",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "World War Z",
+                "Year": "2013",
+                "imdbID": "tt0816711",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "War of the Worlds",
+                "Year": "2005",
+                "imdbID": "tt0407304",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Lord of War",
+                "Year": "2005",
+                "imdbID": "tt0399295",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "War for the Planet of the Apes",
+                "Year": "2017",
+                "imdbID": "tt3450958",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "War Dogs",
+                "Year": "2016",
+                "imdbID": "tt2005151",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyNzQ0NzM4MV5BMl5BanBnXkFtZTgwMDI0ODM2OTE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Civil War",
+                "Year": "2024",
+                "imdbID": "tt17279496",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Tomorrow War",
+                "Year": "2021",
+                "imdbID": "tt9777666",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "This Means War",
+                "Year": "2012",
+                "imdbID": "tt1596350",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTQ4MDE2MV5BMl5BanBnXkFtZTcwOTE0MTgwNw@@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "5038",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Night at the Museum",
+                "Year": "2006",
+                "imdbID": "tt0477347",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNGMyYjYyZDAtNzRiZC00ZjRkLTkwYjktODkxODQzNTFiMTVmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Game Night",
+                "Year": "2018",
+                "imdbID": "tt2704998",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Night at the Museum: Battle of the Smithsonian",
+                "Year": "2009",
+                "imdbID": "tt1078912",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BY2E0NTRjMDEtMWI3NS00YTRmLTg4NmEtNzIxZjQ3YWM2NDQxXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "30 Days of Night",
+                "Year": "2007",
+                "imdbID": "tt0389722",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZWVjOTM3NmItZjU1Mi00YTVjLTlkM2YtNTJlYjI2YzUyNmUxXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Last Night in Soho",
+                "Year": "2021",
+                "imdbID": "tt9639470",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODdhZjBmZTEtZmQyMy00NWY5LWJiMWQtODhjODFkZWZlMjMyXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Date Night",
+                "Year": "2010",
+                "imdbID": "tt1279935",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjVjMzIyZTgtMjQwZS00ODA1LTllY2YtZDhkNjA1OTQ3NjliXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Night of the Living Dead",
+                "Year": "1968",
+                "imdbID": "tt0063350",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyZTA0MWEtZjczMS00ZDE5LTk1OTQtNmIxNGYzNDA2NDVhXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Night at the Museum: Secret of the Tomb",
+                "Year": "2014",
+                "imdbID": "tt2692250",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1MzM2ODEyMV5BMl5BanBnXkFtZTgwNTIzODAwMzE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Late Night with the Devil",
+                "Year": "2023",
+                "imdbID": "tt14966898",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNWZlNGMtOTUwZi00ZjE4LWE1ZjEtNWE4MGQ2ZGU5NDliXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Run All Night",
+                "Year": "2015",
+                "imdbID": "tt2199571",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2ODI3ODEyOV5BMl5BanBnXkFtZTgwMTM3NTQzNDE@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "10461",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "The Imitation Game",
+                "Year": "2014",
+                "imdbID": "tt2084970",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Sherlock Holmes: A Game of Shadows",
+                "Year": "2011",
+                "imdbID": "tt1515091",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Game",
+                "Year": "1997",
+                "imdbID": "tt0119174",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Game Night",
+                "Year": "2018",
+                "imdbID": "tt2704998",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ender's Game",
+                "Year": "2013",
+                "imdbID": "tt1731141",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Molly's Game",
+                "Year": "2017",
+                "imdbID": "tt4209788",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Spy Game",
+                "Year": "2001",
+                "imdbID": "tt0266987",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTljZmI1MjctMWJmMC00ZjJmLTkwNzUtNGQxNWJhZGRjMjM3XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Gerald's Game",
+                "Year": "2017",
+                "imdbID": "tt3748172",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2ZjU5ZWMtMmQ4OS00ZTQzLWIwOWMtYTBmOTljYTIwNjM3XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Game Plan",
+                "Year": "2007",
+                "imdbID": "tt0492956",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjIzMDQ1ZDctNTUwOC00YmQyLTlhZGItNDIwZDIwMjcxMzVjXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Spy Kids 3: Game Over",
+                "Year": "2003",
+                "imdbID": "tt0338459",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzVhNjgtMDE5Zi00YmIyLWI4ZTQtZTBiZTRkNmFhZjUzXkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "4012",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "The Hunger Games: Catching Fire",
+                "Year": "2013",
+                "imdbID": "tt1951264",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg"
+            },
+            {
+                "Title": "Harry Potter and the Goblet of Fire",
+                "Year": "2005",
+                "imdbID": "tt0330373",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Man on Fire",
+                "Year": "2004",
+                "imdbID": "tt0328107",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Reign of Fire",
+                "Year": "2002",
+                "imdbID": "tt0253556",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTFkMGVmZTUtMzcyMC00ZTBkLWExNzAtNTVmYTE3MjIzOTk1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Rebel Moon - Part One: A Child of Fire",
+                "Year": "2023",
+                "imdbID": "tt14998742",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTRmOTk2ZDYtY2Q3Mi00MGYwLWFjNDQtYTliODc3NzM1ZjBlXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Portrait of a Lady on Fire",
+                "Year": "2019",
+                "imdbID": "tt8613070",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "In the Line of Fire",
+                "Year": "1993",
+                "imdbID": "tt0107206",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Twin Peaks: Fire Walk with Me",
+                "Year": "1992",
+                "imdbID": "tt0105665",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmZGFiMzAtODNhOC00NzAwLWFlMzAtYTQzYmRmYjIwNDgyXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Eurovision Song Contest: The Story of Fire Saga",
+                "Year": "2020",
+                "imdbID": "tt8580274",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTFhODlhMGMtNTA4Yy00MjNhLWFiNjMtMTFkMjRkN2FmMjAyXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl Who Played with Fire",
+                "Year": "2009",
+                "imdbID": "tt1216487",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MjIxMDIwNF5BMl5BanBnXkFtZTcwODk5MDc1Mw@@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "2937",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "There Will Be Blood",
+                "Year": "2007",
+                "imdbID": "tt0469494",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Harry Potter and the Half-Blood Prince",
+                "Year": "2009",
+                "imdbID": "tt0417741",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Blood Diamond",
+                "Year": "2006",
+                "imdbID": "tt0450259",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOGYzOGI0YTUtNTAwYy00M2JhLTgyODEtMjlhZTk1Yzc5ZTBhXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "First Blood",
+                "Year": "1982",
+                "imdbID": "tt0083944",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzc4ZmQ5YzEtYTQzYy00ZDdiLWI2NmQtZTA3MzM1ZGIyYmUzXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Rambo: First Blood Part II",
+                "Year": "1985",
+                "imdbID": "tt0089880",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTNiMzUyZjQtY2RlOS00MjIxLWFlMjAtNjI1NjkzY2JjN2M3XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Rambo: Last Blood",
+                "Year": "2019",
+                "imdbID": "tt1206885",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMWM5NzVlNzMtMDNhNy00OGMxLTlmYTktOGIwMzRlZmE0ZWVmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Blood Simple",
+                "Year": "1984",
+                "imdbID": "tt0086979",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxNWY5ODktYWRkOC00NDdkLWIwOGQtOWY5YWQ1N2Q3OWViXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Underworld: Blood Wars",
+                "Year": "2016",
+                "imdbID": "tt3717252",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Blood Father",
+                "Year": "2016",
+                "imdbID": "tt3647498",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3MzU4ODk1Ml5BMl5BanBnXkFtZTgwNzc5MzE2OTE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Blood Red Sky",
+                "Year": "2021",
+                "imdbID": "tt6402468",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDE2YWFjNTUtZjkxOC00NDRhLTlkNDYtYmI2ZGRlYjE4MDJkXkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "3850",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "The Dark Knight",
+                "Year": "2008",
+                "imdbID": "tt0468569",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Dark Knight Rises",
+                "Year": "2012",
+                "imdbID": "tt1345836",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Thor: The Dark World",
+                "Year": "2013",
+                "imdbID": "tt1981115",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Transformers: Dark of the Moon",
+                "Year": "2011",
+                "imdbID": "tt1399103",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Zero Dark Thirty",
+                "Year": "2012",
+                "imdbID": "tt1790885",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Dark Shadows",
+                "Year": "2012",
+                "imdbID": "tt1077368",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiYWMxZjctMzEyZS00NDZmLTgxYmYtM2NmOGI0MmY3ZTJiXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Dark City",
+                "Year": "1998",
+                "imdbID": "tt0118929",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTFhMmE1YzgtNTFhYS00MTRlLWI3ZDMtMWJkMTBmOWMzOTk5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "X-Men: Dark Phoenix",
+                "Year": "2019",
+                "imdbID": "tt6565702",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjcwMDIyNjctMDVmNS00MzkyLTgxMDMtNTFmNTk0NDkyNzdjXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Terminator: Dark Fate",
+                "Year": "2019",
+                "imdbID": "tt6450804",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2OGFhYjktNDJhMC00NmU5LWE1OWItNzg5ODU1MzdmNTZkXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Dark Tower",
+                "Year": "2017",
+                "imdbID": "tt1648190",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "4138",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Death Proof",
+                "Year": "2007",
+                "imdbID": "tt1028528",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjRlOTM0OTktZTBjNi00ZjZiLWJkMzktMmU2ZDBkMTQxN2FmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Death Race",
+                "Year": "2008",
+                "imdbID": "tt0452608",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjdlNmJjM2ItYjkwOS00NDMxLWFjM2QtNzcyZjJkYzEzYzQ5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Death on the Nile",
+                "Year": "2022",
+                "imdbID": "tt7657566",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjBkMTRkMmUtNGQ5Ni00YjkwLThhMmMtZjI1M2U2NzRhNjkwXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Maze Runner: The Death Cure",
+                "Year": "2018",
+                "imdbID": "tt4500922",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Happy Death Day",
+                "Year": "2017",
+                "imdbID": "tt5308322",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxNGQwMjEtNjdjNy00NmQwLTkwYTEtNGIwZWJjZjU5M2FmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Death Becomes Her",
+                "Year": "1992",
+                "imdbID": "tt0104070",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTczYmEyMmEtMmJlYi00YjI2LTg3MzUtMzEyODUwYWYzNjJhXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Death at a Funeral",
+                "Year": "2007",
+                "imdbID": "tt0795368",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4OTIyNTM1MF5BMl5BanBnXkFtZTcwMjUzNTg0MQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Death of Stalin",
+                "Year": "2017",
+                "imdbID": "tt4686844",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDc1NjcyNl5BMl5BanBnXkFtZTgwNDU0NDYxMzI@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Death Note",
+                "Year": "2017",
+                "imdbID": "tt1241317",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTgzMTEyOF5BMl5BanBnXkFtZTgwNTk3MTM5MjI@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Happy Death Day 2U",
+                "Year": "2019",
+                "imdbID": "tt8155288",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzkwMzQyMV5BMl5BanBnXkFtZTgwNDcxMTMyNzM@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "5837",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "The Lord of the Rings: The Return of the King",
+                "Year": "2003",
+                "imdbID": "tt0167260",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Lion King",
+                "Year": "1994",
+                "imdbID": "tt0110357",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "King Kong",
+                "Year": "2005",
+                "imdbID": "tt0360717",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Lion King",
+                "Year": "2019",
+                "imdbID": "tt6105098",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+            },
+            {
+                "Title": "King Arthur: Legend of the Sword",
+                "Year": "2017",
+                "imdbID": "tt1972591",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Godzilla: King of the Monsters",
+                "Year": "2019",
+                "imdbID": "tt3741700",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDVhMjk2OGUtYzYxNS00NzBjLTk5YTItYzI0ZjgzNjY1NmI0XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Last King of Scotland",
+                "Year": "2006",
+                "imdbID": "tt0455590",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "King Arthur",
+                "Year": "2004",
+                "imdbID": "tt0349683",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The King",
+                "Year": "2019",
+                "imdbID": "tt7984766",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTFhZTY4YWUtMmJjMy00OTE0LTlmZjctMDg5MTk4N2ZjZWNjXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Scorpion King",
+                "Year": "2002",
+                "imdbID": "tt0277296",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxNTAwNTQ0M15BMl5BanBnXkFtZTYwMTQwMjM3._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "3712",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Gone Girl",
+                "Year": "2014",
+                "imdbID": "tt2267998",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl with the Dragon Tattoo",
+                "Year": "2011",
+                "imdbID": "tt1568346",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl Next Door",
+                "Year": "2004",
+                "imdbID": "tt0265208",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODIyMzE1N15BMl5BanBnXkFtZTcwODEwODczMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl with the Dragon Tattoo",
+                "Year": "2009",
+                "imdbID": "tt1132620",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2Mjc0MDg3MV5BMl5BanBnXkFtZTcwMjUzMDkxMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Girl, Interrupted",
+                "Year": "1999",
+                "imdbID": "tt0172493",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl on the Train",
+                "Year": "2016",
+                "imdbID": "tt3631112",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZTg4MGViYTMtYTFkMC00YzVlLWExZDItOTM4NTUwMjc2NTE2XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Danish Girl",
+                "Year": "2015",
+                "imdbID": "tt0810819",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Lars and the Real Girl",
+                "Year": "2007",
+                "imdbID": "tt0805564",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZThiOTA4N2UtNzJiYS00MDI0LWI3OWItYzYxYzU3M2YwM2M4XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Me and Earl and the Dying Girl",
+                "Year": "2015",
+                "imdbID": "tt2582496",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Other Boleyn Girl",
+                "Year": "2008",
+                "imdbID": "tt0467200",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTg1Mjk1Ml5BMl5BanBnXkFtZTYwODI5Njk3._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "6960",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Pirates of the Caribbean: Dead Man's Chest",
+                "Year": "2006",
+                "imdbID": "tt0383574",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg"
+            },
+            {
+                "Title": "Shaun of the Dead",
+                "Year": "2004",
+                "imdbID": "tt0365748",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Dead Poets Society",
+                "Year": "1989",
+                "imdbID": "tt0097165",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+                "Year": "2017",
+                "imdbID": "tt1790809",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Mission: Impossible - Dead Reckoning Part One",
+                "Year": "2023",
+                "imdbID": "tt9603212",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Dawn of the Dead",
+                "Year": "2004",
+                "imdbID": "tt0363547",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZiYjNlMWYtNTc2My00ZTM4LWJhMjQtM2FlOWM0ZmE0Yjg1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Evil Dead",
+                "Year": "1981",
+                "imdbID": "tt0083907",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Evil Dead",
+                "Year": "2013",
+                "imdbID": "tt1288558",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjkwODM5ZWUtMjI2Ni00Y2RiLWJkNDYtZWQ2ZTRhMjI1N2FmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Army of the Dead",
+                "Year": "2021",
+                "imdbID": "tt0993840",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0MDFjZmQtMWMxZi00YzY4LWI5N2EtOGQwM2IzZjRkYmY1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Evil Dead II",
+                "Year": "1987",
+                "imdbID": "tt0092991",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMGMxMWVhMzAtYWRlOS00YzY1LTlkYTQtYjU5ZDM4MGI1YWFjXkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "5410",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "World War Z",
+                "Year": "2013",
+                "imdbID": "tt0816711",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Thor: The Dark World",
+                "Year": "2013",
+                "imdbID": "tt1981115",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Jurassic World",
+                "Year": "2015",
+                "imdbID": "tt0369610",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Scott Pilgrim vs. the World",
+                "Year": "2010",
+                "imdbID": "tt0446029",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTA5ZWMwNmYtNWI1ZS00NDRlLTkxNzktMzdhZDU2ZDhjNDJmXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Lost World: Jurassic Park",
+                "Year": "1997",
+                "imdbID": "tt0119567",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMGI3NDg5N2ItZGIyZi00ZWNkLWFlODUtZDA1Y2Q1M2U4NGM2XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Jurassic World: Fallen Kingdom",
+                "Year": "2018",
+                "imdbID": "tt4881806",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Master and Commander: The Far Side of the World",
+                "Year": "2003",
+                "imdbID": "tt0311113",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZDEzYmZmOTYtMzdlYS00MWNjLWE2YjEtMzkyZTMyOWZjMjkyXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Leave the World Behind",
+                "Year": "2023",
+                "imdbID": "tt12747748",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0YzhjZjAtMzg3ZS00NTFhLWFkYjctMjE5ZGExNTk1MmJkXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Jurassic World: Dominion",
+                "Year": "2022",
+                "imdbID": "tt8041270",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The World Is Not Enough",
+                "Year": "1999",
+                "imdbID": "tt0143145",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDlmNTA0YmMtODJmMi00NTZhLTk4MzUtY2FiYjNhMmY4OTI1XkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "9030",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Mission: Impossible - Ghost Protocol",
+                "Year": "2011",
+                "imdbID": "tt1229238",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost Rider",
+                "Year": "2007",
+                "imdbID": "tt0259324",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost",
+                "Year": "1990",
+                "imdbID": "tt0099653",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjkwOWM2MWMtMWE1YS00MTBlLTg1ODctYTI3M2I0NGIxMGYyXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost in the Shell",
+                "Year": "2017",
+                "imdbID": "tt1219827",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Ghost Writer",
+                "Year": "2010",
+                "imdbID": "tt1139328",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3NzMwMzkyNV5BMl5BanBnXkFtZTcwODk4NjQxMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost in the Shell",
+                "Year": "1995",
+                "imdbID": "tt0113568",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzljMjA3MTQtMjM1OS00OGJjLWJiYzctZDRiMTk1NWI5YzQ5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost Rider: Spirit of Vengeance",
+                "Year": "2011",
+                "imdbID": "tt1071875",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BN2FmZGVlNTgtYTllNC00YmUzLTk5YmUtNWNhMzk3ZmE2NmQ0XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost World",
+                "Year": "2001",
+                "imdbID": "tt0162346",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ4NmFmYzYtNGJmZi00NGNkLTk2YTktM2Q0MzQ5MWRlZGEyXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost Ship",
+                "Year": "2002",
+                "imdbID": "tt0288477",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTA4NDIwMF5BMl5BanBnXkFtZTYwNTc4NDE3._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ghost Dog: The Way of the Samurai",
+                "Year": "1999",
+                "imdbID": "tt0165798",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzNWI3MTMtNGY4Zi00YWIwLWEyMmQtZjcxOTdhNTQ0ZTE5XkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "2376",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "How to Train Your Dragon",
+                "Year": "2010",
+                "imdbID": "tt0892769",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl with the Dragon Tattoo",
+                "Year": "2011",
+                "imdbID": "tt1568346",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "How to Train Your Dragon 2",
+                "Year": "2014",
+                "imdbID": "tt1646971",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Red Dragon",
+                "Year": "2002",
+                "imdbID": "tt0289765",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNmI0MDEwZTktMzdjMy00NDhmLWI2YjMtNGI4YjY0NDc3MDZkXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Crouching Tiger, Hidden Dragon",
+                "Year": "2000",
+                "imdbID": "tt0190332",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMzRmMTU2OWEtZjI0Ni00MGRhLThjOTItZTJiNmM4MDk0ZWU2XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Girl with the Dragon Tattoo",
+                "Year": "2009",
+                "imdbID": "tt1132620",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2Mjc0MDg3MV5BMl5BanBnXkFtZTcwMjUzMDkxMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Raya and the Last Dragon",
+                "Year": "2021",
+                "imdbID": "tt5109280",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BN2QzZTQ3MzktN2JiYS00MDEzLTgxMWQtZWFmMDI3NWFkZTY0XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Mummy: Tomb of the Dragon Emperor",
+                "Year": "2008",
+                "imdbID": "tt0859163",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "How to Train Your Dragon: The Hidden World",
+                "Year": "2019",
+                "imdbID": "tt2386490",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Enter the Dragon",
+                "Year": "1973",
+                "imdbID": "tt0070034",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZDAyYjAwNmMtMjM5OC00NTc5LThmNjAtOTUxODQxOWYwOTE5XkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "1165",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Safe House",
+                "Year": "2012",
+                "imdbID": "tt1599348",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5ODkyMjA2Nl5BMl5BanBnXkFtZTcwNTcyNTgzNw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "White House Down",
+                "Year": "2013",
+                "imdbID": "tt2334879",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTZkMmRiY2EtOTljZS00MjJjLWFiNDQtNjEwYWE0NWNkYjI4XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Road House",
+                "Year": "2024",
+                "imdbID": "tt3359350",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODVkYjlkM2UtNWVlMS00N2U1LTgxOTYtODlmNmE1YTgzMjczXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "House of Gucci",
+                "Year": "2021",
+                "imdbID": "tt11214590",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Lake House",
+                "Year": "2006",
+                "imdbID": "tt0410297",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMTgxNDI3MV5BMl5BanBnXkFtZTcwMzIxMTIzMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Monster House",
+                "Year": "2006",
+                "imdbID": "tt0385880",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjE1NDg1N15BMl5BanBnXkFtZTcwOTg2NTMzMQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "House of Wax",
+                "Year": "2005",
+                "imdbID": "tt0397065",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNDA4Nzg1NjQ2NV5BMl5BanBnXkFtZTcwMDYwNTgyMQ@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "National Lampoon's Animal House",
+                "Year": "1978",
+                "imdbID": "tt0077975",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjk2ODY5N2UtMzczOC00M2M1LWEzZDQtZTc2YTgzMGNhOWZiXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "House of Flying Daggers",
+                "Year": "2004",
+                "imdbID": "tt0385004",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYWZlZjQwMjUtNGI5Ny00ODg4LTg0Y2UtODkxYmYxM2IxNjgzXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Road House",
+                "Year": "1989",
+                "imdbID": "tt0098206",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTE2Mjk2OF5BMl5BanBnXkFtZTcwMTUzNjYzNA@@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "5662",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Kingsman: The Secret Service",
+                "Year": "2014",
+                "imdbID": "tt2802144",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODk1MTYwNTAtYmI5Zi00OWYyLWE0MzQtOWE4NDIxZmU2MjMwXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Secret Life of Walter Mitty",
+                "Year": "2013",
+                "imdbID": "tt0359950",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Secret in Their Eyes",
+                "Year": "2009",
+                "imdbID": "tt1305806",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Secret Life of Pets",
+                "Year": "2016",
+                "imdbID": "tt2709768",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Secret Window",
+                "Year": "2004",
+                "imdbID": "tt0363988",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0ZDBiM2MtZDdhMy00ZWQzLWIwNjAtZDAyNmMxZWJhMzA4XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "13 Hours: The Secret Soldiers of Benghazi",
+                "Year": "2016",
+                "imdbID": "tt4172430",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOGM1MWUzZjktMWY0MS00N2ZhLWJmZjQtNjIxOGVlNzA1OGI0XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Night at the Museum: Secret of the Tomb",
+                "Year": "2014",
+                "imdbID": "tt2692250",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1MzM2ODEyMV5BMl5BanBnXkFtZTgwNTIzODAwMzE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Secret World of Arrietty",
+                "Year": "2010",
+                "imdbID": "tt1568921",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxNjk3OTYyODReQTJeQWpwZ15BbWU3MDgyODY2OTY@._V1_SX300.jpg"
+            },
+            {
+                "Title": "On Her Majesty's Secret Service",
+                "Year": "1969",
+                "imdbID": "tt0064757",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmMzOWNlNDMtM2NjMC00NTAxLWE4ODYtNzMyNmY0MzM0OWNhXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Top Secret!",
+                "Year": "1984",
+                "imdbID": "tt0088286",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ0ZDZjYjAtNTM3My00ZGI4LWJjNDYtMjVmM2IwOTdjMjU2XkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "3532",
+        "Response": "True"
+    },
+    {
+        "Search": [
             {
                 "Title": "The Power of the Dog",
                 "Year": "2021",
@@ -244,1659 +1225,298 @@
                 "Poster": "https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Alpha Dog",
-                "Year": "2006",
-                "imdbID": "tt0426883",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjExODMyNzQzMl5BMl5BanBnXkFtZTYwNzMwNTg3._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ghost Dog: The Way of the Samurai",
-                "Year": "1999",
-                "imdbID": "tt0165798",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzNWI3MTMtNGY4Zi00YWIwLWEyMmQtZjcxOTdhNTQ0ZTE5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Wag the Dog",
-                "Year": "1997",
-                "imdbID": "tt0120885",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNmEwNzk5ZTYtNGUzOC00ZThjLTk3NGYtMDQ5MzNiYzQ0ZTNkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Dog Soldiers",
-                "Year": "2002",
-                "imdbID": "tt0280609",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDI3ZTk0ZjItOTMwMi00NWM1LTk4YmItMjY3NDYyZWI4ZjYxXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Dog",
-                "Year": "2022",
-                "imdbID": "tt11252248",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkY2ZjYmEtNzMwNy00MTIxLTlkMmYtZDQ0Yzc4NjQyZTI0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Man Bites Dog",
-                "Year": "1992",
-                "imdbID": "tt0103905",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjAyZWRiZDktZWQ0OS00MTQ2LWE1ODgtMDBkZWNmNjQzYTA3XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Diary of a Wimpy Kid: Dog Days",
-                "Year": "2012",
-                "imdbID": "tt2023453",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTk4MTk4Nl5BMl5BanBnXkFtZTcwMzgzOTY2Nw@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Mad Dog and Glory",
-                "Year": "1993",
-                "imdbID": "tt0107473",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjQwZTFiZDYtYTg1Ny00YWVmLTgzNzctYzU0YmYzNjQ4ZTQ0XkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "2630",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "The Eel",
-                "Year": "1997",
-                "imdbID": "tt0120408",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYzhhMTM3MTAtYzllOC00YzVlLThiYjAtMWRlNGY0Yjg2MzRhXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Eel Girl",
-                "Year": "2008",
-                "imdbID": "tt1209317",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyMzkwODYyMV5BMl5BanBnXkFtZTcwODEzMjY2MQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Eel Squad",
-                "Year": "2019",
-                "imdbID": "tt8696026",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjMwZDc2Y2EtZTI3Ni00ZGJhLWEzNjEtNDg4MGI4N2FiZWRjXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Otto and the Electric Eel",
-                "Year": "2011",
-                "imdbID": "tt2006806",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "Eel",
-                "Year": "2014",
-                "imdbID": "tt2546132",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzYWZiMzktODU1MS00YTQxLThmMDItODZiMzQ5ZmI3YmY3XkEyXkFqcGdeQXVyOTkyOTE4MQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Moray Eel, an Ugly Beauty",
-                "Year": "1998",
-                "imdbID": "tt2664112",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "Panoramic Views from a Steam Launch: Hampton Court to Eel Pie Island",
-                "Year": "1903",
-                "imdbID": "tt2841078",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "Eel",
-                "Year": "2014",
-                "imdbID": "tt4285082",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "The Riddle of the Eel",
-                "Year": "1937",
-                "imdbID": "tt8055616",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "The Eel",
-                "Year": "2018",
-                "imdbID": "tt8495240",
-                "Type": "movie",
-                "Poster": "N/A"
-            }
-        ],
-        "totalResults": "21",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Fantastic Mr. Fox",
-                "Year": "2009",
-                "imdbID": "tt0432283",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Fox and the Hound",
-                "Year": "1981",
-                "imdbID": "tt0082406",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2IxMDIxZTAtMjEyMS00MzY3LTkyM2EtNTVlNTZmMjI1OTRlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Boy, the Mole, the Fox and the Horse",
-                "Year": "2022",
-                "imdbID": "tt22667880",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDg4MjI3NGMtOTcwMC00ZWQ0LWI0YjMtNDA0YmZjN2FlYzg2XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Still: A Michael J. Fox Movie",
-                "Year": "2023",
-                "imdbID": "tt19853258",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjAyMjVjZGMtMzM4NS00MWM4LTkzMzUtNWZlMjJkMmJiODExXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Liza the Fox-Fairy",
-                "Year": "2015",
-                "imdbID": "tt2210769",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNThmMTA4MjQtZTMzMS00NGM1LWJmZmItNTUzNjk3NGViZmNlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Fox and His Friends",
-                "Year": "1975",
-                "imdbID": "tt0072976",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0ZDYxZjItNmI0Mi00YjA4LTk2NDctZWM1MjY3Y2UxY2FiXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Desert Fox: The Story of Rommel",
-                "Year": "1951",
-                "imdbID": "tt0043461",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyZWY2OTUtNmNjMi00NjNkLWEwOWQtMjdkZGRmNjk4MmZiXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Little Fox",
-                "Year": "1981",
-                "imdbID": "tt0131636",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTM1NjBiYzgtYjhlMy00MjM0LTliMjMtZWQwODlhNTIyOTdmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "After the Fox",
-                "Year": "1966",
-                "imdbID": "tt0060200",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTJmNDNjNmUtNzk5Mi00MDYzLThmOTgtNzA4NTY5ZGEwNDcxXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Fox and the Child",
-                "Year": "2007",
-                "imdbID": "tt0756648",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODAxNjFhZmEtODdlOC00MmFkLThkYzktNmJhYjQ0MjYxMTUwXkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "687",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Gym Teacher",
-                "Year": "2008",
-                "imdbID": "tt1167490",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOGM4ZDBiM2QtZjc4Mi00MTU1LWE5MzgtMjE1NDRhZDZhZDhlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Boxing Gym",
-                "Year": "2010",
-                "imdbID": "tt1653827",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NTI2NjMwOV5BMl5BanBnXkFtZTcwMjQ1MTYxNA@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Benny's Gym",
-                "Year": "2007",
-                "imdbID": "tt1059893",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjU0ZmU1ZmUtMjYxMy00OTA4LWExNjktYTRjYjUwMTRjMzUyXkEyXkFqcGdeQXVyNDc4MDgzMzY@._V1_SX300.jpg"
-            },
-            {
-                "Title": "My Technogym: Inside Kerem Bürsin's Technogym Home Gym",
-                "Year": "2024",
-                "imdbID": "tt36579590",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWJjYjdlNTMtZTZhOS00MDUwLThjYjEtYWNkMTU4MGQyOWJjXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Home from the Gym",
-                "Year": "2014",
-                "imdbID": "tt3639326",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjBiZDI5NWMtMTkxMy00ZTc5LTk2MTQtNzE3OTcyMmY2MDg5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Gym Jam",
-                "Year": "1950",
-                "imdbID": "tt0150802",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjg5NGFlYTktMTg5MC00ZmE1LTgxZjQtZDBjMDhkYTAyNjIwXkEyXkFqcGdeQXVyNDcwNDI2MTk@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Gym College",
-                "Year": "1955",
-                "imdbID": "tt0217528",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4YWY4MGUtODk2Mi00NDIxLWJkZTEtMjVkZWIxZGIzNmEyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Fantastic Love Gym",
-                "Year": "2015",
-                "imdbID": "tt4883114",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOWY5NzZhN2EtMmE3MS00NzI0LWEwOGItMDUyOGEyY2QxZDgzXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Female Gym Coach: Jump and Straddle",
-                "Year": "1981",
-                "imdbID": "tt0285836",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjAxZmYzMjYtODE1Mi00ZGEzLWJkMmYtNDk5MDA0ZGE0MTg5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Birch Street Gym",
-                "Year": "1991",
-                "imdbID": "tt0101456",
-                "Type": "movie",
-                "Poster": "N/A"
-            }
-        ],
-        "totalResults": "131",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "The Cat in the Hat",
-                "Year": "2003",
-                "imdbID": "tt0312528",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_SX300.jpg"
-            },
-            {
-                "Title": "Top Hat",
-                "Year": "1935",
-                "imdbID": "tt0027125",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYzUzZWE4NzctYzlkYS00NDkwLTljYjMtNWQwMDY4NGExZmJkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Fear of a Black Hat",
-                "Year": "1993",
-                "imdbID": "tt0106880",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODBjODE0M2ItYmJmYy00NDhiLTljOTUtMGM2MDNhYjc5NTFmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Cat in the Hat",
-                "Year": "1971",
-                "imdbID": "tt0284714",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOWNmZjljYjUtYjI3ZS00NTBlLTgyN2ItODRhODJmNTZhYTE5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Sörensen hat Angst",
-                "Year": "2020",
-                "imdbID": "tt12508520",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNTljOWJmMTctYzE0Ni00ZDZkLWE3YzYtYjNlYThjNWVjMDUyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Professor Kosta Vujic's Hat",
-                "Year": "2012",
-                "imdbID": "tt2054808",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ2YWZiNjgtYzg5NS00NWJlLWEwNzQtYzUzODkyZDZlNDRlXkEyXkFqcGdeQXVyMjI0NTYyMTM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "One Piece 3D: Straw Hat Chase",
-                "Year": "2011",
-                "imdbID": "tt1865467",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDgxYzQxZDItZjI5ZS00N2QzLWEyMzYtYWYyZjFmNmE3ZTU5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Man in the Hat",
-                "Year": "2020",
-                "imdbID": "tt9056822",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNWUxZTE4OWYtODE1Zi00N2UzLWIxYTMtNzMxMDI2NDQ2ODBmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Grinch Grinches the Cat in the Hat",
-                "Year": "1982",
-                "imdbID": "tt0213689",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjg5NzFjNmMtMjA4My00MDZhLTk3NDAtMjJkYmUxYzUwYWE5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The New York Hat",
-                "Year": "1912",
-                "imdbID": "tt0002391",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTg3YWMxZWUtYzVmYy00ZmE2LWEzMjAtYmFhYTg3M2ExN2Y3XkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "678",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Ice Age",
-                "Year": "2002",
-                "imdbID": "tt0268380",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlYzU2OGMtOGJjNi00ZGZjLWIwNjMtYzdiZjkwYWNjZDljXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ice Age: The Meltdown",
-                "Year": "2006",
-                "imdbID": "tt0438097",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ice Age: Dawn of the Dinosaurs",
-                "Year": "2009",
-                "imdbID": "tt1080016",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWJjZDYwMjgtZDZiMy00YzcyLThjN2YtYjI1ZDQ2ZDJkOTVmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ice Age: Continental Drift",
-                "Year": "2012",
-                "imdbID": "tt1667889",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ice Age: Collision Course",
-                "Year": "2016",
-                "imdbID": "tt3416828",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Ice Storm",
-                "Year": "1997",
-                "imdbID": "tt0119349",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzljZTk2MzMtOTAwNi00MTBlLWI0ODYtODgwYTE4NmM1YWIwXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Ice Road",
-                "Year": "2021",
-                "imdbID": "tt3758814",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDNiMjM2NTYtOGI4MC00YjZkLWE2ZjAtZjcyNDg5ZDNmYWVjXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ice Princess",
-                "Year": "2005",
-                "imdbID": "tt0396652",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NjIzMzg5OF5BMl5BanBnXkFtZTcwMjI2ODcyMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Against the Ice",
-                "Year": "2022",
-                "imdbID": "tt13873302",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDRhYzkzOWEtMTMwOS00Y2MxLTg5ZmQtYmU5YTE2YzgwNTYyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Ice Harvest",
-                "Year": "2005",
-                "imdbID": "tt0400525",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODRjNDJkZjMtZGVhNS00Yjc5LWFhNmQtYzRmMjY3NzJkZmE3XkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "1610",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Jet Lag",
-                "Year": "2002",
-                "imdbID": "tt0293116",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyODgyMjU2NF5BMl5BanBnXkFtZTcwNDY3MDAwMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jet Pilot",
-                "Year": "1957",
-                "imdbID": "tt0050562",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlZmJkMjktOWFmNS00MzM0LWJhMTYtNGQ3MjI1ZjlmYWM4XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jet Boy",
-                "Year": "2001",
-                "imdbID": "tt0271580",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNGViNjBiMDUtMTAwMy00MTkwLTljOGQtN2Y5ZDNmY2UzYjJkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jet Set",
-                "Year": "2000",
-                "imdbID": "tt0216841",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzI0NTA5NjA3M15BMl5BanBnXkFtZTcwNjM4MDEyMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jet Li Is 'The One'",
-                "Year": "2002",
-                "imdbID": "tt0311363",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNTgxNTkzOTU2NF5BMl5BanBnXkFtZTYwMjcwNjQ5._V1_SX300.jpg"
-            },
-            {
-                "Title": "Little Johnny Jet",
-                "Year": "1953",
-                "imdbID": "tt0046005",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMWQ2ZmJkYmYtZDk3ZC00ZmUyLTg3YTYtYTE5YjRjOWM1NGMzXkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jet Storm",
-                "Year": "1959",
-                "imdbID": "tt0052944",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTZhOTlkZDctZDdjZS00ZGJlLTkxNDgtODRiZjRlMzg4NjZjXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Foodies: The Culinary Jet Set",
-                "Year": "2014",
-                "imdbID": "tt3400460",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjM1NDE3OTMxOV5BMl5BanBnXkFtZTgwNTgxODc3MTE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jet Stream",
-                "Year": "2013",
-                "imdbID": "tt2957558",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDc4MDAzNl5BMl5BanBnXkFtZTgwMjE5MDA4MDE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Paw Patrol: Jet to the Rescue",
-                "Year": "2020",
-                "imdbID": "tt13107908",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjNjOWJhOTMtMTYwNy00NDUyLWIwMzgtOTRlMTcwZTdkYTFjXkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "168",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "The Skeleton Key",
-                "Year": "2005",
-                "imdbID": "tt0397101",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDE0YWIyM2UtZWU3Yi00M2U5LTgwMDAtODY1MjU2NzQ4M2NmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Insidious: The Last Key",
-                "Year": "2018",
-                "imdbID": "tt5726086",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Key Largo",
-                "Year": "1948",
-                "imdbID": "tt0040506",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMmVmNjY0MDQtMzE5Zi00ZmEzLTg3MzUtNTg1MWE0YWNiNzQ1XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Sarah's Key",
-                "Year": "2010",
-                "imdbID": "tt1668200",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEyNzMxM15BMl5BanBnXkFtZTcwNzA5ODI1NQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Locke & Key",
-                "Year": "2011",
-                "imdbID": "tt1193126",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZjMzZTAtMGMxOC00NDAyLTlmNWUtOGZhZjRiNjU2MjcxXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Glass Key",
-                "Year": "1942",
-                "imdbID": "tt0034798",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDExOTA3NzQ2N15BMl5BanBnXkFtZTgwMzIyODc5MTE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Your Vice Is a Locked Room and Only I Have the Key",
-                "Year": "1972",
-                "imdbID": "tt0069421",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWIxNTA3YjktODViMi00MDdmLWFiMGItYTU4ZjE4N2FkMjUyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Key",
-                "Year": "1983",
-                "imdbID": "tt0085328",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWVhYjk2ZDQtYWFiNS00ZWI1LTkxNTYtYzVhMjVmNWY4ZWNmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Luck-Key",
-                "Year": "2016",
-                "imdbID": "tt6175078",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjVlYzAyZDUtYWY4Yy00OTA0LWI4ZGEtNDE2ZTE1NjUxYmEyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Key to Reserva",
-                "Year": "2007",
-                "imdbID": "tt1151319",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDg3OTRiYjktZjdlOS00MDJmLTgxNTAtZWUyYmU3NjkyNGQ0XkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "581",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Keep a Lid On It",
-                "Year": "2019",
-                "imdbID": "tt10918410",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTVlMTEzNDUtNzJiMy00N2RlLWE2OWEtYTE5M2YwYWE2ZGMyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "There Is No Lid on the Sea",
-                "Year": "2015",
-                "imdbID": "tt4520132",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDFjN2ZkZmItYjIyNy00ODJiLWJjYmItNjA3Y2VhMmU0NmYwXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Lucas: Lucas with the Lid Off",
-                "Year": "1994",
-                "imdbID": "tt6801220",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMGU0ZjNjMzktM2ExZi00NWUzLTk5NTItMjYyM2I0NzM2YTNkXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Lifting the Lid",
-                "Year": "1905",
-                "imdbID": "tt3220930",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "Vítezný lid",
-                "Year": "1977",
-                "imdbID": "tt0362295",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTg5MDI3NGQtZDgxNi00YmYxLWJmZmYtY2MyY2M5NWUxZDhjXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jar Lid",
-                "Year": "2022",
-                "imdbID": "tt17346682",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDU3Yjk1MzYtNTcwYy00MTM1LWEwZTEtMWI0ZDliNTgwMWRhXkEyXkFqcGdeQXVyNzc3NzE4NDU@._V1_SX300.jpg"
-            },
-            {
-                "Title": "His Wife's New Lid",
-                "Year": "1915",
-                "imdbID": "tt0248865",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "Lið við lið",
-                "Year": "2023",
-                "imdbID": "tt30887264",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTBkMjJiOWYtYmFmZi00M2FlLWFlN2ItMDg1ZWQ4ZGIwNGQ3XkEyXkFqcGdeQXVyMTMxODE5MDkx._V1_SX300.jpg"
-            },
-            {
-                "Title": "Lost in Direction (LiD)",
-                "Year": "2021",
-                "imdbID": "tt21061776",
-                "Type": "movie",
-                "Poster": "N/A"
-            },
-            {
-                "Title": "Lid Down Lights Out",
-                "Year": "2018",
-                "imdbID": "tt9595912",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTZiN2Q2NTMtZGM4MC00ZTk2LWEyODItNDAyYjY5ZTRhMTVhXkEyXkFqcGdeQXVyOTc3NDUzNjc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "32",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Iron Man",
-                "Year": "2008",
-                "imdbID": "tt0371746",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Spider-Man: No Way Home",
-                "Year": "2021",
-                "imdbID": "tt10872600",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Iron Man 3",
-                "Year": "2013",
-                "imdbID": "tt1300854",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Spider-Man",
-                "Year": "2002",
-                "imdbID": "tt0145487",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Iron Man 2",
-                "Year": "2010",
-                "imdbID": "tt1228705",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Man of Steel",
-                "Year": "2013",
-                "imdbID": "tt0770828",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Spider-Man: Homecoming",
+                "Title": "Power Rangers",
                 "Year": "2017",
-                "imdbID": "tt2250912",
+                "imdbID": "tt3717490",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5MzU1NDI4NzBeQTJeQWpwZ15BbWU4MDUxMDQ0NDEy._V1_SX300.jpg"
             },
             {
-                "Title": "Ant-Man",
-                "Year": "2015",
-                "imdbID": "tt0478970",
+                "Title": "Project Power",
+                "Year": "2020",
+                "imdbID": "tt7550000",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BM2QxNjM4YTAtMjY1Yi00YjMwLTlkOWUtZmIzYmZmNzUwNDU1XkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Spider-Man 2",
-                "Year": "2004",
-                "imdbID": "tt0316654",
+                "Title": "Absolute Power",
+                "Year": "1997",
+                "imdbID": "tt0118548",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkNzU2YmItNmVmMC00OTM2LTg2YTEtOTk0MWRlNWY3NDIxXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Spider-Man: Into the Spider-Verse",
-                "Year": "2018",
-                "imdbID": "tt4633694",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "13475",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "The Nut Job",
-                "Year": "2014",
-                "imdbID": "tt1821658",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Nut Job 2: Nutty by Nature",
-                "Year": "2017",
-                "imdbID": "tt3486626",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzE2MWI4OGYtNzNjZi00NzFiLWJjOGYtOThmZDg2MWY2OWVlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The CooCoo Nut Grove",
-                "Year": "1936",
-                "imdbID": "tt0027464",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMWI0ZGQ5MmUtZmU3My00M2ZlLWJkOWMtOGNjYmNiOTgyNzhkXkEyXkFqcGdeQXVyMTU5NjQzMzU@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Some Kind of a Nut",
-                "Year": "1969",
-                "imdbID": "tt0065010",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTI3MGFhMzctNmRiOC00YjQ5LWEwZTEtZDk3N2JiZDlhNzYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The 'Hyp-Nut-Tist'",
-                "Year": "1935",
-                "imdbID": "tt0026503",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ5NTM3MWYtZGZkYS00MzI5LWEwM2MtYjc1NWJkNzJhNmZhXkEyXkFqcGdeQXVyNDcwNDI2MTk@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Our Masha and the Magic Nut",
-                "Year": "2009",
-                "imdbID": "tt1112289",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDljMzVhYTAtMDUzMi00YTBkLWIxZmUtNmY3YTcyNmMyNDQxXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Pee-Nut",
-                "Year": "2002",
-                "imdbID": "tt2699246",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODM1YzIzMjAtMWVjZS00YzJmLTk2ZWUtNDMzZjc2OTkzNzdhXkEyXkFqcGdeQXVyNjE1NDkwNDQ@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Nut",
-                "Year": "1921",
-                "imdbID": "tt0012513",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDRkMWQyZWEtYzJkMy00MmRiLTg2NjEtZDI3ZGViMzQ2ZTVhXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "A Hard Little Nut",
-                "Year": "1968",
-                "imdbID": "tt0179925",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOWI3ZjllNGEtN2I5ZC00MDdlLWI0YjYtYWQ5ZjQ1NGQyOGUyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Baby Nut",
-                "Year": "2003",
-                "imdbID": "tt2974736",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZWY4NWFlOWEtOTc2Mi00ZjUzLWIwMDAtN2IzYjI2ZmI4NzI1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "119",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "The Cry of the Owl",
-                "Year": "2009",
-                "imdbID": "tt1034302",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZmUyMjkwZjItYWNmZi00ZGI4LWE0OGQtZWFiZjA5ODFiMmE5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Owl and the Pussycat",
-                "Year": "1970",
-                "imdbID": "tt0066195",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjAzOGVjMDYtOGI4ZC00YzhkLThjMDMtOTVlNGQ5N2JiZjdjXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Occurrence at Owl Creek Bridge",
-                "Year": "1961",
-                "imdbID": "tt0056300",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMTkzNTc5NF5BMl5BanBnXkFtZTgwODQyMDkwMzE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Grey Owl",
-                "Year": "1999",
-                "imdbID": "tt0128239",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhNjkxYzgtZTNhMS00MWU3LThiZjYtMDUxZjRkOWI0OTY5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Downtown Owl",
-                "Year": "2023",
-                "imdbID": "tt2542852",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNzJlMzU1MWYtZDFlYS00N2Y5LTg3MmMtM2Q0ZjI2MjNkYTY0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Skellig: The Owl Man",
-                "Year": "2009",
-                "imdbID": "tt0382301",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyMjM4MzkwMl5BMl5BanBnXkFtZTgwOTMxOTkwMzE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Silence 2: The Night Owl Bar Shootout",
-                "Year": "2024",
-                "imdbID": "tt28500558",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiNjgwMTUtOThiYy00NzI0LWFlZmQtYTg1OGMyMDEwYTA3XkEyXkFqcGdeQXVyMTY1OTgwMDAx._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Night Owl",
-                "Year": "2022",
-                "imdbID": "tt23871504",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDg1MTNjMTQtZTM5My00NTBkLTk5YTAtMzM4ZGUwODA5NzVlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Cry of the Owl",
-                "Year": "1987",
-                "imdbID": "tt0092797",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0Y2RhYjItOGNiNS00MjFkLWI4OWQtNzQ1MDZiYjAyMDcxXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Owl and the Sparrow",
-                "Year": "2007",
-                "imdbID": "tt0971162",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MDY3NzI5MF5BMl5BanBnXkFtZTcwODQwMzc1MQ@@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "177",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Ace Ventura: Pet Detective",
-                "Year": "1994",
-                "imdbID": "tt0109040",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOWU1M2Q5MDgtOTkxZS00NjdmLWFlNWEtOGEyOTNlNGYyYTZlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Pet Sematary",
-                "Year": "1989",
-                "imdbID": "tt0098084",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTEyYWIyZWYtMTM5OC00M2ZmLWI5NzMtZjA0ZTI4MTQ4ZDZkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Pet Sematary",
-                "Year": "2019",
-                "imdbID": "tt0837563",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ0ZTQ2NTQtNGQ3MS00YTdlLThlOTAtZDBiZDkzNDk1MDk2XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Pet Sematary II",
-                "Year": "1992",
-                "imdbID": "tt0105128",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTAwNWY4ZGQtNDE5Ni00OTNmLWExYjQtMjljODkzMzZmOWQzXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Pet",
-                "Year": "2016",
-                "imdbID": "tt1183374",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTE3MzUyOV5BMl5BanBnXkFtZTgwOTQ2ODI0MDI@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Pet Sematary: Bloodlines",
-                "Year": "2023",
-                "imdbID": "tt14145436",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTFlZmU5YTMtNzg2NC00NWU3LTk3OTktMzdlZjUwNTM4NjljXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ace Ventura: Pet Detective Jr.",
-                "Year": "2009",
-                "imdbID": "tt0844029",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTVmYmYwMGUtMDA1MC00OGIwLWIzMjctMWEyMzhhOGZkMjEwXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Teacher's Pet",
-                "Year": "1958",
-                "imdbID": "tt0052278",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYWMyZTFkZWYtMTIwNi00Y2Y4LWFlYmEtOTcwMGUzYzM0ZDdkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Teacher's Pet",
-                "Year": "2004",
-                "imdbID": "tt0350194",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTc1YzYwMDktOWFlNy00MjJjLTk3YmYtYzJjZGM3MTc5Nzk1XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "My Pet Dinosaur",
-                "Year": "2017",
-                "imdbID": "tt6055082",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ3NjIzYTYtMzc5OC00ZmI5LWI2ZDMtMzQ3NzA5MjU5ZGUwXkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "413",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Rat Race",
-                "Year": "2001",
-                "imdbID": "tt0250687",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZGY0NDk4ZjEtZmZiYS00ZTE5LTlmMDktNGI3NTYzYjdlYTE5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Rat Catcher",
-                "Year": "2023",
-                "imdbID": "tt28912858",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjUyOGU3MjctMzIwZi00YjEwLWEzMjEtY2E4MjAzNTdiNzJhXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Rat",
-                "Year": "2019",
-                "imdbID": "tt10367276",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTUxMjA0NzEtMWE0Mi00NDk0LTgwZDMtODRhNmIyMGMxZjFkXkEyXkFqcGdeQXVyMTIwMDc2OTQz._V1_SX300.jpg"
-            },
-            {
-                "Title": "Your Friend the Rat",
-                "Year": "2007",
-                "imdbID": "tt1134859",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTU4MTM0OF5BMl5BanBnXkFtZTgwODQzMDgwMjE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "King Rat",
-                "Year": "1965",
-                "imdbID": "tt0059358",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNWYyZWFkMWItM2MwMi00M2ZkLTlkMjAtNmY2ZDBiOGYyMDU2XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Rat Pack",
-                "Year": "1998",
-                "imdbID": "tt0146165",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTJlODhiNzUtZTExZi00ZjA2LWFiMzUtOTg3OGNlODI4ZTljXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Ciske the Rat",
-                "Year": "1984",
-                "imdbID": "tt0087060",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDVmOGYyY2QtMTE4MS00OWNjLTg1YjMtNzVhMTNiYjVlN2ExXkEyXkFqcGdeQXVyNTc3MzA0NzU@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Rat Race",
-                "Year": "1960",
-                "imdbID": "tt0054230",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDcxMDJkMGItZjFkYi00N2JhLTg3ZTMtNzMyNDM0ZjU0NjFmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Rat Fever",
-                "Year": "2011",
-                "imdbID": "tt2200908",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYThkNDZjOGMtOGI3ZC00MWQ4LWE5NTYtZTkyMTdiMzM0Nzg3XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Cynic, the Rat and the Fist",
-                "Year": "1977",
-                "imdbID": "tt0075852",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjY2YTg3YzAtZTc1My00MzEzLWI5NjctOTljODIyMjhlNTMyXkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "392",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Empire of the Sun",
-                "Year": "1987",
-                "imdbID": "tt0092965",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Tears of the Sun",
-                "Year": "2003",
-                "imdbID": "tt0314353",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzk1NmE2YWItMmNkZi00OTEzLWJkMzctNjFlOWE3Njg2OGI0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Luther: The Fallen Sun",
-                "Year": "2023",
-                "imdbID": "tt3155298",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDFmYzdjOGYtMWY3MC00ZjQ0LWJiYjgtODc3ZDUzZmM4MmQ3XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Under the Tuscan Sun",
-                "Year": "2003",
-                "imdbID": "tt0328589",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZGIxZTY1ODktM2E3Yi00ZmQxLWI1ZjctNmVkYWQ0MTExMDBlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Rising Sun",
-                "Year": "1993",
-                "imdbID": "tt0107969",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjAwOGQ0ZjQtMTRjNC00MDIyLThjMWMtYzA0YjRhMDFhNTZkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Midnight Sun",
-                "Year": "2018",
-                "imdbID": "tt4799066",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjU1MjgyNF5BMl5BanBnXkFtZTgwNzc5NjYyNDM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "A Place in the Sun",
-                "Year": "1951",
-                "imdbID": "tt0043924",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjM4MzFjMjgtOTVmYi00YWI2LThlNTItYTdhNTE4ODhhZjgwXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Evil Under the Sun",
-                "Year": "1982",
-                "imdbID": "tt0083908",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNTUzOWNjNGEtMTZiMy00YWFlLWI2NTYtMDFjOGYzZmI4MDg4XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Burnt by the Sun",
-                "Year": "1994",
-                "imdbID": "tt0111579",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2E5MzcyY2QtNzM1Mi00ZTk4LTg4YzMtMTQ0YThjNDJlYTIxXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Mondays in the Sun",
-                "Year": "2002",
-                "imdbID": "tt0319769",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOGU1YjNiNjEtYWM4OS00MzFiLTg4MjUtOGFjMDdiOWNiMDFiXkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "2088",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Toy Story",
+                "Title": "Mighty Morphin Power Rangers",
                 "Year": "1995",
-                "imdbID": "tt0114709",
+                "imdbID": "tt0113820",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTBkODkyNTYtOTkxNC00NDA5LThmODAtMTAzNzg0ODE3ZDEwXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Toy Story 3",
-                "Year": "2010",
-                "imdbID": "tt0435761",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Toy Story 2",
-                "Year": "1999",
-                "imdbID": "tt0120363",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Toy Story 4",
-                "Year": "2019",
-                "imdbID": "tt1979376",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Toy Soldiers",
-                "Year": "1991",
-                "imdbID": "tt0103112",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODE1MzEyMjgtNWJlYi00ODJhLWJmMTctOTU3ZjFmMjkwNjU5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Toy Story of Terror",
-                "Year": "2013",
-                "imdbID": "tt2446040",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDU5MWI4ZTctYTdlNi00MmQ1LTkzZGUtZmYxYWMyNmQ4MjdiXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Toy",
-                "Year": "1982",
-                "imdbID": "tt0084809",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDMwZTg1ODItOWU3ZC00MDY5LWJiNWEtMDM3Mjg4OWViOGQ0XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Toy Story That Time Forgot",
-                "Year": "2014",
-                "imdbID": "tt3473654",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTc2OTA1MDM4M15BMl5BanBnXkFtZTgwNjczMDk5MjE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Tin Toy",
-                "Year": "1988",
-                "imdbID": "tt0096273",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2UxMjBiOTAtNjcyYi00ZmFhLTg1MDgtOGE5MjRkYWRiNjAzXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Toy Story Toons: Hawaiian Vacation",
-                "Year": "2011",
-                "imdbID": "tt1850374",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1NzY0MTY3M15BMl5BanBnXkFtZTgwMjkzMDgwMjE@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "422",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Guns N' Roses: Use Your Illusion I",
+                "Title": "The Power of One",
                 "Year": "1992",
-                "imdbID": "tt0306925",
+                "imdbID": "tt0105159",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4ODQ0NjczOV5BMl5BanBnXkFtZTYwMjQxODk4._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzgzZTZkNTAtNjVmYi00MzJkLTkzN2UtYjkyOGU4OWJjYzFhXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "How to Use Guys with Secret Tips",
-                "Year": "2013",
-                "imdbID": "tt2934568",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZGFkOTY0NGMtZmQ1Ni00YTQ1LTg0MDAtYmJmNTI5MzVjYWY5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Use Me",
-                "Year": "2019",
-                "imdbID": "tt6032090",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjcxNjRkODYtODhiNi00YmM4LTg1YjAtOGUyYTc4ZThlM2Y3XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Guns N' Roses: Use Your Illusion II",
-                "Year": "1992",
-                "imdbID": "tt0306926",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwNzc1NTAzMl5BMl5BanBnXkFtZTcwMzAyOTAyMg@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Karsandas Pay and Use",
-                "Year": "2017",
-                "imdbID": "tt6771678",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTVkNDc4MTctOTViZS00OGE1LWExMmItMTEzNDQzZWFiMmE2XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Use of Force: The Policing of Black America",
-                "Year": "2022",
-                "imdbID": "tt13060184",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOGI3YWEzMTMtNzIxMS00MWMzLWI2YmEtNDE0ZWNmODIzMmI5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "If it Don't Fit, Use a Bigger Hammer",
+                "Title": "Turbo: A Power Rangers Movie",
                 "Year": "1997",
-                "imdbID": "tt0136612",
+                "imdbID": "tt0120389",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZGMwMTk4OWEtNDQ5YS00YzFkLWJhNDQtZGNlMzQxNzVmY2JkXkEyXkFqcGdeQXVyMDM1MzIyMQ@@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZGFlYTNjMDYtZjk5OC00MDZkLTk3YTYtZWMwNjNkMTc0YWIzXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "How to Use Dianetics: A Visual Guidebook to the Human Mind",
-                "Year": "1992",
-                "imdbID": "tt0309692",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMzQ3MjIyNF5BMl5BanBnXkFtZTcwMjY1MTUyMQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Pad (and How to Use It)",
-                "Year": "1966",
-                "imdbID": "tt0060809",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjk4NDMyNDYtMGUxNS00ODM1LTg0MmUtZjFjZTcxYWRhNjljXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "How to Make Use of Leisure Time",
-                "Year": "1977",
-                "imdbID": "tt0075711",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2FkZGVjM2ItMzI5NS00ZjViLTljOTItMDA1NjUxOTFjNWI2XkEyXkFqcGdeQXVyMTE0NDAwODc0._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "205",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Van Helsing",
-                "Year": "2004",
-                "imdbID": "tt0338526",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3NTdlYzQtMjhiMy00MWJkLWFjNDctMzE4ZGEwZWExNGViXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Van Wilder",
-                "Year": "2002",
-                "imdbID": "tt0283111",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjAzZDgwNjQtNjY5OC00MGViLTk4ZmQtYTQ1YmE3NGUyNThlXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Lady in the Van",
-                "Year": "2015",
-                "imdbID": "tt3722070",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTY0MjM3NTQyOF5BMl5BanBnXkFtZTgwMzcwNjUxNzE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Van Wilder: The Rise of Taj",
-                "Year": "2006",
-                "imdbID": "tt0480271",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1NTA0MzA2OV5BMl5BanBnXkFtZTcwMjA2MzA0MQ@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Van Wilder: Freshman Year",
-                "Year": "2009",
-                "imdbID": "tt1276434",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MzZiZWQtOTZlZS00NzJmLWI5NTMtM2ZmYTg4MmUwNzg4XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Van",
-                "Year": "1996",
-                "imdbID": "tt0118064",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYWRlMWZhZDAtMjRkNy00ODUwLTlkNGQtMWNkY2YyMzE5ZTFmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jean-Claude Van Johnson",
-                "Year": "2016",
-                "imdbID": "tt5655056",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA5NDk0NF5BMl5BanBnXkFtZTgwMDY2OTE2OTE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Van Diemen's Land",
-                "Year": "2009",
-                "imdbID": "tt1361843",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzODIzNjY5NF5BMl5BanBnXkFtZTcwMDkyNDM4Mg@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Van Gogh",
-                "Year": "1991",
-                "imdbID": "tt0103190",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2EwZmItMTg3MC00ZWJhLWE3MzItZjc4Mzg4NzQyYmZmXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Van Helsing: The London Assignment",
-                "Year": "2004",
-                "imdbID": "tt0406310",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTczNjBjOGItNDNhMC00ODZjLTlmYzgtYTk5YzRjZWJjMWI5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "2277",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Madame Web",
-                "Year": "2024",
-                "imdbID": "tt11057302",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Girl in the Spider's Web",
-                "Year": "2018",
-                "imdbID": "tt5177088",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjgyY2I0ZTAtYzVkYy00YzkwLThkNTAtNDgwMjFhMjQzYWU5XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Charlotte's Web",
-                "Year": "2006",
-                "imdbID": "tt0413895",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTUzMTAzMl5BMl5BanBnXkFtZTcwNTE0NTcyMw@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Unfriended: Dark Web",
-                "Year": "2018",
-                "imdbID": "tt4761916",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNmYxNGZjY2ItOTg5YS00NzM0LWIxZjktMDFmOWM1MGZhOTNkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Charlotte's Web",
-                "Year": "1973",
-                "imdbID": "tt0070016",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZjhlYjU1NmEtZWZmNy00ZWZiLWJjZjktZmM3MjczOWE5MjIyXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Deep Web",
-                "Year": "2015",
-                "imdbID": "tt3312868",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjQwMTI0NzcyOF5BMl5BanBnXkFtZTgwNzkzMTg0NDE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Web",
-                "Year": "2013",
-                "imdbID": "tt5021522",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZmY0NjctMmZhZS00OTI1LWI3YWEtMjNmZGU4ZDdlMTMzXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Dark Web: Cicada 3301",
-                "Year": "2021",
-                "imdbID": "tt8110246",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYmFjODJmYzMtYjk3OS00MzQ5LTliNGYtMDViMzA2ZWVhODUxXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Spider in the Web",
-                "Year": "2019",
-                "imdbID": "tt7942736",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjBmOGViODMtYTdlOS00MTRhLWJiZWYtYzczYTUwODk1NWRiXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Web",
-                "Year": "1947",
-                "imdbID": "tt0039973",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNDY5MWM5YTctZGYxNS00ZmRjLWJmN2ItOTRjOGJiNDliOTZhXkEyXkFqcGc@._V1_SX300.jpg"
-            }
-        ],
-        "totalResults": "506",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Lunana: A Yak in the Classroom",
-                "Year": "2019",
-                "imdbID": "tt10189300",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMjFhMzhkZmEtMWI2YS00NDU2LTk1NTMtZWZhMGQwY2Q1NDYzXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "The Perils of Gwendoline in the Land of the Yik Yak",
-                "Year": "1984",
-                "imdbID": "tt0087903",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODE3NmFhZTAtMDM3ZC00YjExLWE3NDgtOTg3OTM2ZTYxODRkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Yak kozaky v futbol hraly",
-                "Year": "1970",
-                "imdbID": "tt1230144",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZGRjYTFmNWUtYThkNi00MDRkLWFjY2YtZDNhMWU4NmEwMDVhXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Yak kozaky sil kupuvaly",
-                "Year": "1975",
-                "imdbID": "tt1234937",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYzUyNjc5ZDYtY2ZhOS00NDc1LTk0MWYtNTE5MzQ3M2MzMWZkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Yak kozak shchastia shukav",
-                "Year": "1969",
-                "imdbID": "tt2845402",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BODAyMGMyNzctYzcyNC00NDc4LWIyOGItMjIyNjc2MzYwMzAxXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Boa... Nguu yak!",
-                "Year": "2006",
-                "imdbID": "tt0811599",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzM1ZTEzZjgtY2Q4OS00ODY1LWI3OTItZGJmODgwNTE3ZmU3XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Khanat el-Yak",
-                "Year": "2015",
-                "imdbID": "tt5295222",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ3OTFjNGQtZDdiYi00ZWEwLWJiNmUtYTFjZTM0NTFhN2ZjXkEyXkFqcGdeQXVyNjc2OTQzNDM@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Yak posvaryvsa Ivan Ivanovych z Ivanom Nykyforovychem",
-                "Year": "1959",
-                "imdbID": "tt8155134",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNGU5N2ViZjctZWUzZC00MTAxLTk4NjMtM2QzZjY3NGM3NzQ1XkEyXkFqcGdeQXVyMTAxMTQ3ODE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Singjâaopá-yák",
-                "Year": "1981",
-                "imdbID": "tt0188769",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNWQyMTJlNGMtOTQzOS00OTMwLTg4ODEtNzk1ZmFhNjE3OGE1XkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Yak",
-                "Year": "1970",
-                "imdbID": "tt2998262",
-                "Type": "movie",
-                "Poster": "N/A"
-            }
-        ],
-        "totalResults": "56",
-        "Response": "True"
-    },
-    {
-        "Search": [
-            {
-                "Title": "Zip & Zap and the Marble Gang",
-                "Year": "2013",
-                "imdbID": "tt2388821",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2Njg2MTEwNl5BMl5BanBnXkFtZTgwNjA3MTM5MDE@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Zip & Zap and the Captain's Island",
-                "Year": "2016",
-                "imdbID": "tt4110400",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOTExZDBiNWYtODA3MS00NTZhLTllY2ItZjRmMDIxMDRkMWI4XkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Zip 'N Snort",
-                "Year": "1961",
-                "imdbID": "tt0055637",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BZTA5ZGI3NmEtMDk2ZS00YmQyLTk2N2EtNmZmMmQ0MGE3NDExXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Zip Zip Hooray!",
-                "Year": "1965",
-                "imdbID": "tt0056720",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNjVjMmVmYzQtZGZhOS00NDVmLTgyZDUtNjkwMzA2YTg3OWY1XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Jimmy Zip",
-                "Year": "1999",
-                "imdbID": "tt0116703",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5YTBlMTgtZWZiNi00YjFhLTgxNzYtMGY0ZDk2MWNkYzBkXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Disney Sing-Along-Songs: Zip-a-Dee-Doo-Dah",
-                "Year": "1986",
-                "imdbID": "tt0285023",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyMTMyNzAtOTJjMC00YTIwLTkyMWEtNzdjNjdlMmExYTI5XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Cooked: Survival by Zip Code",
-                "Year": "2019",
-                "imdbID": "tt2490432",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMDM2NmUyZGQtZmI2Ny00MmU3LWJiNTUtOGY5N2RkMWRiZWVjXkEyXkFqcGc@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Candy.zip",
+                "Title": "An Inconvenient Sequel: Truth to Power",
                 "Year": "2017",
-                "imdbID": "tt6686692",
+                "imdbID": "tt6322922",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOGY3YWQxMjMtYjI2Ni00MDFmLWIxMDktYzVlYTUzZDI5YjdhXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTkzNTQ0MzA3Ml5BMl5BanBnXkFtZTgwNzg4OTcyMjI@._V1_SX300.jpg"
             },
             {
-                "Title": "ZIP",
+                "Title": "Mighty Morphin Power Rangers: Once & Always",
                 "Year": "2023",
-                "imdbID": "tt27187307",
+                "imdbID": "tt23219684",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYTMwNzI3ZDEtZTI4MS00MWJiLThkY2MtN2RhYTMyMjE2YTZmXkEyXkFqcGdeQXVyODA2OTEzMTM@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTY2MTRiNWUtMjY3Ni00MjVhLWJmOTItMWEwOTc5NGEwZTJlXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Jimmy Zip",
-                "Year": "1996",
-                "imdbID": "tt0212254",
+                "Title": "The Power",
+                "Year": "2021",
+                "imdbID": "tt9314984",
                 "Type": "movie",
-                "Poster": "N/A"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiZTZlZTYtNDI4MC00YzVhLTllOWUtY2MyMzgzOGM5ZjcwXkEyXkFqcGc@._V1_SX300.jpg"
             }
         ],
-        "totalResults": "47",
+        "totalResults": "2085",
         "Response": "True"
     },
     {
         "Search": [
             {
-                "Title": "We Bought a Zoo",
+                "Title": "Once Upon a Time... in Hollywood",
+                "Year": "2019",
+                "imdbID": "tt7131622",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "In Time",
                 "Year": "2011",
-                "imdbID": "tt1389137",
+                "imdbID": "tt1637688",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MTE3OTUwMl5BMl5BanBnXkFtZTcwODg5NjgwNw@@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX300.jpg"
             },
             {
-                "Title": "Zoo",
-                "Year": "2007",
-                "imdbID": "tt0874423",
+                "Title": "No Time to Die",
+                "Year": "2021",
+                "imdbID": "tt2382320",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNTk3MjkwODQ1OF5BMl5BanBnXkFtZTcwNzgzMTM0MQ@@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Zoo",
-                "Year": "2018",
-                "imdbID": "tt7624934",
+                "Title": "About Time",
+                "Year": "2013",
+                "imdbID": "tt2194499",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYWY2ZTcxY2QtOGNjMS00ZGI5LTliOTYtNDU3ZTcxMzVjYzU2XkEyXkFqcGdeQXVyNjA3NjE4OTc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_SX300.jpg"
             },
             {
-                "Title": "Secret Zoo",
-                "Year": "2020",
-                "imdbID": "tt11566164",
+                "Title": "Once Upon a Time in America",
+                "Year": "1984",
+                "imdbID": "tt0087843",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYzczNTU3YzEtZWY2Yi00NWJhLWE3YzctM2MzNDRjOTI1MWFlXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Murders in the Zoo",
-                "Year": "1933",
-                "imdbID": "tt0024360",
+                "Title": "Once Upon a Time in the West",
+                "Year": "1968",
+                "imdbID": "tt0064116",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BOThmMTc0NDUtOTdlYy00NjhkLTg0MzAtNDQ1OWY4OTUwMmEwXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Zoo",
-                "Year": "2017",
-                "imdbID": "tt3688342",
+                "Title": "Prince of Persia: The Sands of Time",
+                "Year": "2010",
+                "imdbID": "tt0473075",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYWFjMmMwNTgtMDNjNC00Njg4LTk5NjgtMTM2ZTNkM2JiZTMwXkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNDg0NzcyMV5BMl5BanBnXkFtZTcwNjg4MjQyMw@@._V1_SX300.jpg"
             },
             {
-                "Title": "The Zoo",
-                "Year": "1967",
-                "imdbID": "tt0061474",
+                "Title": "Hot Tub Time Machine",
+                "Year": "2010",
+                "imdbID": "tt1231587",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMzMxNzlhMWMtMzUzNC00Y2E1LWE5NjItMzA4OTliYjQwYWQ0XkEyXkFqcGc@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMjExODA4Ml5BMl5BanBnXkFtZTcwNTYwMDYxMw@@._V1_SX300.jpg"
             },
             {
-                "Title": "U2: Zoo TV Live from Sydney",
-                "Year": "1994",
-                "imdbID": "tt0118521",
+                "Title": "A Time to Kill",
+                "Year": "1996",
+                "imdbID": "tt0117913",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1NjkwNDQwN15BMl5BanBnXkFtZTYwODc2MTk4._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_SX300.jpg"
             },
             {
-                "Title": "Human Zoo",
-                "Year": "2020",
-                "imdbID": "tt5575918",
+                "Title": "Once Upon a Time in Mexico",
+                "Year": "2003",
+                "imdbID": "tt0285823",
                 "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5MzgwZTktMjVjMi00MGZhLTk5MDQtMzQ4M2E1ODZhNjNmXkEyXkFqcGdeQXVyNDU3Mzg0MA@@._V1_SX300.jpg"
-            },
-            {
-                "Title": "Un zoo la nuit",
-                "Year": "1987",
-                "imdbID": "tt0094210",
-                "Type": "movie",
-                "Poster": "https://m.media-amazon.com/images/M/MV5BYjY2ZjQzMDQtNDk3OS00NTJmLThjMWMtYzkxMmM1YTk4MGVmXkEyXkFqcGdeQXVyMjQzMjY4MjU@._V1_SX300.jpg"
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg5OTcwOV5BMl5BanBnXkFtZTcwMjI1MTIzMw@@._V1_SX300.jpg"
             }
         ],
-        "totalResults": "379",
+        "totalResults": "9156",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Fight Club",
+                "Year": "1999",
+                "imdbID": "tt0137523",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Fist Fight",
+                "Year": "2017",
+                "imdbID": "tt3401882",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Run Hide Fight",
+                "Year": "2020",
+                "imdbID": "tt11456054",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzA4OTNhMzgtN2VkYS00MmUxLWEzOTItOTYzYjc2ZTkzYTI4XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Winter on Fire: Ukraine's Fight for Freedom",
+                "Year": "2015",
+                "imdbID": "tt4908644",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTY4MDgwOTI3M15BMl5BanBnXkFtZTgwNjYxMjU3NjE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Fight or Flight",
+                "Year": "2024",
+                "imdbID": "tt13652286",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMmE4YTQxMjctMWFlZC00OTY5LWJiNTctZjFhNTJlMmIxMmViXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Ip Man: The Final Fight",
+                "Year": "2013",
+                "imdbID": "tt2495118",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNjhhNWY1ZDctN2QzMy00ZGVlLWI2NTQtMjU5NDlhMWE2MDE4XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Why We Fight",
+                "Year": "2005",
+                "imdbID": "tt0436971",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NzU2MjM0MF5BMl5BanBnXkFtZTYwMDMwNDE3._V1_SX300.jpg"
+            },
+            {
+                "Title": "Asterix and the Big Fight",
+                "Year": "1989",
+                "imdbID": "tt0096842",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOGQwYTM1MGEtZmY3Ny00Nzc0LThhNTItMzE4MWMxYTkzZjkzXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Bring It On: Fight to the Finish",
+                "Year": "2009",
+                "imdbID": "tt1349482",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NjMzOTExNl5BMl5BanBnXkFtZTcwNTY4ODc3Mg@@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Love at First Fight",
+                "Year": "2014",
+                "imdbID": "tt3204144",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1ODMxODE3Ml5BMl5BanBnXkFtZTgwNzY3MzExNTE@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "1899",
+        "Response": "True"
+    },
+    {
+        "Search": [
+            {
+                "Title": "Jack Ryan: Shadow Recruit",
+                "Year": "2014",
+                "imdbID": "tt1205537",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MDkxNzYwNl5BMl5BanBnXkFtZTgwOTM2MjE5MDE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Shadow of a Doubt",
+                "Year": "1943",
+                "imdbID": "tt0036342",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDFhMzBlYzctMDhkOC00OTFiLTgyYzEtZTBkNmQzNGRlMmNlXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "In the Shadow of the Moon",
+                "Year": "2019",
+                "imdbID": "tt8110640",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYWM3YzQ2MTEtZjA2OS00NzRkLWFmMWEtYjZjODUzN2VlNmY1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Shadow of the Vampire",
+                "Year": "2000",
+                "imdbID": "tt0189998",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODcwOWM4MDEtMTMxMS00Zjg0LWJiNmYtYzE5MDFlMWEyYTdhXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Kagemusha: The Shadow Warrior",
+                "Year": "1980",
+                "imdbID": "tt0080979",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzUzNjhlYzMtOGMzOC00Nzc5LWEwOGItMjE4N2Q0ZTg4YTQ1XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Shadow in the Cloud",
+                "Year": "2020",
+                "imdbID": "tt9691136",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODYyMzM4ODQtNTc3NS00ODllLWIzMDMtYjBmM2UyZTBlODJhXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Under the Shadow",
+                "Year": "2016",
+                "imdbID": "tt4273292",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjQwMDU2OV5BMl5BanBnXkFtZTgwNzMwMDg2OTE@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Shadow",
+                "Year": "1994",
+                "imdbID": "tt0111143",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTZkZWE2MzAtYjU3OS00MWUwLWExYzMtNzdmZTA2MmI0ODU5XkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "Shadow",
+                "Year": "2018",
+                "imdbID": "tt6864046",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDVmMjU1M2ItNzc4Ny00NjE0LTljNTMtYTA0NWI1ZWMzNjhkXkEyXkFqcGc@._V1_SX300.jpg"
+            },
+            {
+                "Title": "The Shadow in My Eye",
+                "Year": "2021",
+                "imdbID": "tt9170516",
+                "Type": "movie",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzEzYjU0MTYtNGE2OC00NWJlLThhMzItODc0YTZmOTg3YzE5XkEyXkFqcGc@._V1_SX300.jpg"
+            }
+        ],
+        "totalResults": "1860",
         "Response": "True"
     }
 ]

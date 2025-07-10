@@ -45,64 +45,78 @@ const Payment = () => {
     
     return (
     <>
-    <NavigationBar/>
+    <NavigationBar />
     <main className="payment">
         <div className="payment__card">
-            <Card
+          <Card
             key={movieId}
             id={id}
             title={movie.Title}
             poster={movie.Poster}
-            />
+          />
         </div>
-
-        <section className="payment__options">
-            <h2 className="payment__title"> Details </h2>
-
+      
+        <section className="payment__details">
+            <h2 className="payment__heading">Details</h2>
+        
             <div className="payment__form">
-                <form onSubmit={handleSubmit}>
+                <form onSubmit={handleSubmit} className="payment__form-container">
                     <input 
                     type="text" 
                     placeholder="Enter Card number"
                     value={cardNumber}
                     onChange={(e) => setCardNumber(e.target.value)}
+                    className="payment__input"
                     />
                     <input 
-                    type="password"
-                    placeholder="Enter Pin number"
-                    value={pinNumber}
-                    onChange={(e) => setPinNumber(e.target.value)}
+                      type="password"
+                      placeholder="Enter Pin number"
+                      value={pinNumber}
+                      onChange={(e) => setPinNumber(e.target.value)}
+                      className="payment__input"
                     />
-                    <button type="submit">Pay</button>
+                    <button type="submit" className="payment__submit">Pay</button>
                 </form>
             </div>
-
+        
             {showOptions && (
                 <>
-                <h2 className="payment__title"> Options </h2>
+                <h2 className="payment__heading">Options</h2>
                 <p className="payment__subtitle">Choose an option to proceed:</p>
-                <div className="payment__button">
+        
+                <div className="payment__actions">
                     {!isRent && (
-                        <>
-                        <SaveButton movieId={id} IconTrue={IoWallet} IconFalse={IoWalletOutline} listName='Purchased' returnState={purchase}/>
-                        <p>Purchase</p>
-                        </>)}
-                </div>
-
-                <div className="payment__button">
+                        <div className="payment__action">
+                            <SaveButton 
+                            movieId={id} 
+                            IconTrue={IoWallet} 
+                            IconFalse={IoWalletOutline} 
+                            listName='Purchased' 
+                            returnState={purchase} 
+                            />
+                          <p className="payment__label">Purchase</p>
+                        </div>
+                    )}
+        
                     {!isPurchase && (
-                        <>
-                        <SaveButton movieId={id} IconTrue={IoTimer} IconFalse={IoTimerOutline} listName='Rented'returnState={rent}/>
-                        <p>Rent</p>
-                        </>)}
+                        <div className="payment__action">
+                            <SaveButton 
+                            movieId={id} 
+                            IconTrue={IoTimer} 
+                            IconFalse={IoTimerOutline} 
+                            listName='Rented' 
+                            returnState={rent} 
+                            />
+                            <p className="payment__label">Rent</p>
+                        </div>
+                    )}
                 </div>
-
-                <NavLink to="/home/my-list" end>
+        
+                <NavLink to="/home/my-list" end className="payment__done">
                     <p>Done</p>
                 </NavLink>
-                </> 
+                </>
             )}
-
         </section>
     </main>
     </>

@@ -18,9 +18,9 @@ const SaveButton = ({movieId, IconTrue = IoBookmark, IconFalse = IoBookmarkOutli
     }, [saved, returnState]);
 
     return (
-        <div onClick={toggleSaved} className="save__button">
+        <span onClick={toggleSaved} className="save__button">
             {saved ? <IconTrue/> : <IconFalse/>}
-        </div>
+        </span>
     );
 }
 
