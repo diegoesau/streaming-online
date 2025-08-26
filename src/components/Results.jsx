@@ -1,49 +1,25 @@
-import { useContext } from 'react';
-import { MoviesContext } from './Context';
 import { NavLink } from 'react-router-dom';
+import '../styles/SearchBar.css';
 
-/* Results
- * 
- * Despliega la lista de resultados de la searchbar
- * 
- * @params
- * @returns
-*/
+const Results = ({ results }) => {
+  // Si results es undefined o null, usamos array vacío
+  const movies = results || [];
 
-const Results = ({input}) => {
-    const movies = useContext(MoviesContext);
-    let moviesData = [];
-    let filteredData = [];
-    
-    if (input !== '' && input.length >= 3) {
-        movies.forEach((search, index) => {
-            search['Search'].forEach((movie) => {
-                moviesData.push({
-                    id: movie.imdbID + '&' + index.toString(),
-                    title: movie.Title
-                })
-            });
-        });
+  if (movies.length === 0) return null;
 
-        filteredData = moviesData.filter(movie => 
-            movie.title.toLowerCase().includes(input.toLowerCase())
-        );
-    }
-
-    if (filteredData.length === 0) 
-    {
-        return null;
-    }
-
-    return (
+  return (
     <>
-    { filteredData.map((movie) => (
-        <NavLink to={"/home/movie/" + movie.id} end key={movie.id} className={"results-item"}>
-            <p className="results-title">{movie.title}</p>
+      {movies.map((movie) => (
+        <NavLink
+          to={"/home/movie/" + movie.imdbID}
+          key={movie.imdbID}
+          className="results-item"
+        >
+          <p className="results-title">{movie.title}</p>
         </NavLink>
-        ))}
+      ))}
     </>
-    );
-}
+  );
+};
 
 export default Results;

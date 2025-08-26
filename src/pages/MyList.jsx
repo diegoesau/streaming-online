@@ -1,6 +1,7 @@
 import NavigationBar from "../components/NavigationBar";
-import GenerateList from "../components/GenerateList";
+import NewCategoryList from "../components/NewCategoryList";
 import '../styles/MyList.css';
+import useMyUserList from "../api/useMyUserList";
 
 /* MyList
  * 
@@ -11,13 +12,13 @@ import '../styles/MyList.css';
 */
 
 const MyList = () => {
-    const list = ['Saved', 'Purchased', 'Rented'];
+    const myLists = useMyUserList('DiegoEsau');
     
     return(
         <>
         <NavigationBar></NavigationBar>
         <main className="mylist">
-            <GenerateList elementType='category' elementsList={list}/>
+            <NewCategoryList categories={myLists}/>
         </main>
         </>
     );

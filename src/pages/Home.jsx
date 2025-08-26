@@ -1,6 +1,7 @@
 import NavigationBar from "../components/NavigationBar";
-import GenerateList from "../components/GenerateList";
+import NewCategoryList from "../components/NewCategoryList";
 import '../styles/Home.css';
+import useGenreList from "../api/useGenreList";
 
 /* Home
  * 
@@ -11,11 +12,12 @@ import '../styles/Home.css';
 */
 
 const Home = () => {
+    const genreList = useGenreList();
     return(
         <>
         <NavigationBar/>
         <main className="home">
-            <GenerateList elementType='category' elementsList={['default']}/>
+            <NewCategoryList categories={genreList}/>
         </main>
         </>
     );
