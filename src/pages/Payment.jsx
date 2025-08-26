@@ -1,35 +1,31 @@
 import { useState, useEffect } from "react";
-import useRoute from "../hooks/useRoute";
+import useMovie from "../api/useMovie";
 import NavigationBar from "../components/NavigationBar";
-import Card from "../components/Card";
-import SaveButton from "../components/SaveButton";
+import NewCard from "../components/NewCard";
 import { IoWallet, IoWalletOutline, IoTimer, IoTimerOutline } from "react-icons/io5";
 import { NavLink } from "react-router-dom";
 import '../styles/Payment.css'
-
-/* Payment
- * 
- * Muestra el proceso de pago de una pelicula
- * 
- * @params
- * @returns
-*/
 
 const Payment = () => {
     const [cardNumber, setCardNumber] = useState('');
     const [pinNumber, setPinNumber] = useState('');
     const [showOptions, setShowOptions] = useState(false);
-    const [isPurchase, setIsPurchase] = useState(false);
-    const [isRent, setIsRent] = useState(false);
-    const [id, movieId, movie] = useRoute();
+    const [isPurchaseSelected, setIsPurchaseSelected] = useState(false);
+    const [isRentSelected, setIsRentSelected] = useState(false);
 
-    const validPayment = {cardNumber: '1234123412341234', pinNumber: '1234'};
+    const { movie, loading } = useMovie();
+    const userID = 'DiegoEsau';
+    const validPayment = { cardNumber: '1234123412341234', pinNumber: '1234' };
 
     useEffect(() => {
-        setCardNumber('');
-        setPinNumber('');
-        setShowOptions(false);
-    }, [id]);
+        if (movie) {
+            setCardNumber('');
+            setPinNumber('');
+            setShowOptions(false);
+            setIsPurchaseSelected(false);
+            setIsRentSelected(false);
+        }
+    }, [movie]);
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -43,92 +39,112 @@ const Payment = () => {
         }
     }
 
-    const purchase = (state) => {
-        setIsPurchase(state);
+const updateState = async (newState) => {
+  try {
+    let res;
+    if (newState === null) {
+      res = await fetch(`http://localhost:8762/movie-service/movies/mylist/${userID}/${movie.imdbID}`, {
+        method: 'DELETE'
+      });
+    } else {
+      res = await fetch(`http://localhost:8762/movie-service/movies/mylist/${userID}/${movie.imdbID}/${newState}`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' }
+      });
     }
+    const text = await res.text(); 
+    console.log("Response:", res.status, text);
+    if (!res.ok) throw new Error('Failed to update');
+  } catch (err) {
+    console.error("updateState error:", err);
+    alert('Error updating movie state');
+  }
+}
 
-    const rent = (state) => {
-        setIsRent(state);
-    }
-    
+    const handlePurchaseClick = async () => {
+        const newState = isPurchaseSelected ? null : 'PURCHASED';
+        await updateState(newState);
+        setIsPurchaseSelected(!isPurchaseSelected);
+        if (isRentSelected && newState) setIsRentSelected(false); 
+    };
+
+    const handleRentClick = async () => {
+        const newState = isRentSelected ? null : 'RENTED';
+        await updateState(newState);
+        setIsRentSelected(!isRentSelected);
+        if (isPurchaseSelected && newState) setIsPurchaseSelected(false); 
+    };
+
+    if (loading) return <div>Loading...</div>;
+    if (!movie) return <div>Movie not found</div>;
+
     return (
-    <>
-    <NavigationBar />
-    <main className="payment">
-        <div className="payment__card">
-          <Card
-            key={movieId}
-            id={id}
-            title={movie.Title}
-            poster={movie.Poster}
-          />
-        </div>
-      
-        <section className="payment__details">
-            <h2 className="payment__heading">Details</h2>
-        
-            <div className="payment__form">
-                <form onSubmit={handleSubmit} className="payment__form-container">
-                    <input 
-                    type="text" 
-                    placeholder="Enter Card number"
-                    value={cardNumber}
-                    onChange={(e) => setCardNumber(e.target.value)}
-                    className="payment__input"
-                    />
-                    <input 
-                      type="password"
-                      placeholder="Enter Pin number"
-                      value={pinNumber}
-                      onChange={(e) => setPinNumber(e.target.value)}
-                      className="payment__input"
-                    />
-                    <button type="submit" className="payment__submit">Pay</button>
-                </form>
+        <>
+        <NavigationBar />
+        <main className="payment">
+            <div className="payment__card">
+                <NewCard movies={[movie]} />
             </div>
-        
-            {showOptions && (
-                <>
-                <h2 className="payment__heading">Options</h2>
-                <p className="payment__subtitle">Choose an option to proceed:</p>
-        
-                <div className="payment__actions">
-                    {!isRent && (
-                        <div className="payment__action">
-                            <SaveButton 
-                            movieId={id} 
-                            IconTrue={IoWallet} 
-                            IconFalse={IoWalletOutline} 
-                            listName='Purchased' 
-                            returnState={purchase} 
-                            />
-                          <p className="payment__label">Purchase</p>
-                        </div>
-                    )}
-        
-                    {!isPurchase && (
-                        <div className="payment__action">
-                            <SaveButton 
-                            movieId={id} 
-                            IconTrue={IoTimer} 
-                            IconFalse={IoTimerOutline} 
-                            listName='Rented' 
-                            returnState={rent} 
-                            />
-                            <p className="payment__label">Rent</p>
-                        </div>
-                    )}
+
+            <section className="payment__details">
+                <h2 className="payment__heading">Details</h2>
+
+                <div className="payment__form">
+                    <form onSubmit={handleSubmit} className="payment__form-container">
+                        <input 
+                            type="text" 
+                            placeholder="Enter Card number"
+                            value={cardNumber}
+                            onChange={(e) => setCardNumber(e.target.value)}
+                            className="payment__input"
+                        />
+                        <input 
+                            type="password"
+                            placeholder="Enter Pin number"
+                            value={pinNumber}
+                            onChange={(e) => setPinNumber(e.target.value)}
+                            className="payment__input"
+                        />
+                        <button type="submit" className="payment__submit">Pay</button>
+                    </form>
                 </div>
-        
-                <NavLink to="/home/my-list" end className="payment__done">
-                    <p>Done</p>
-                </NavLink>
-                </>
-            )}
-        </section>
-    </main>
-    </>
-  );
+
+                {showOptions && (
+                    <>
+                        <h2 className="payment__heading">Options</h2>
+                        <p className="payment__subtitle">Choose an option to proceed:</p>
+
+                        <div className="payment__actions">
+                            <div className="payment__action">
+                                <span 
+                                    className="state__button" 
+                                    onClick={handlePurchaseClick}
+                                >
+                                    {isPurchaseSelected ? <IoWallet /> : <IoWalletOutline />}
+                                </span>
+                                <p className="payment__label">Purchase</p>
+                            </div>
+
+                            <div className="payment__action">
+                                <span 
+                                    className="state__button" 
+                                    onClick={handleRentClick}
+                                >
+                                    {isRentSelected ? <IoTimer /> : <IoTimerOutline />}
+                                </span>
+                                <p className="payment__label">Rent</p>
+                            </div>
+                        </div>
+
+                        <NavLink to="/home/my-list" end className="payment__done">
+                            <p>Done</p>
+                        </NavLink>
+                    </>
+                )}
+            </section>
+        </main>
+        </>
+    );
 };
 
 export default Payment;
